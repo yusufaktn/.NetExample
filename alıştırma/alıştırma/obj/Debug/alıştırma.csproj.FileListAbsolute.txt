@@ -1,0 +1,7 @@
+C:\alıştırma\alıştırma\bin\Debug\alıştırma.exe.config
+C:\alıştırma\alıştırma\bin\Debug\alıştırma.exe
+C:\alıştırma\alıştırma\bin\Debug\alıştırma.pdb
+C:\alıştırma\alıştırma\obj\Debug\alıştırma.csproj.AssemblyReference.cache
+C:\alıştırma\alıştırma\obj\Debug\alıştırma.csproj.CoreCompileInputs.cache
+C:\alıştırma\alıştırma\obj\Debug\alıştırma.exe
+C:\alıştırma\alıştırma\obj\Debug\alıştırma.pdb

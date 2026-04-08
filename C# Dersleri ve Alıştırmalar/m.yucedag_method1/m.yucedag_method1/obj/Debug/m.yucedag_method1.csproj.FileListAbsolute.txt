@@ -1,0 +1,7 @@
+C:\c# alıştırma2\m.yucedag_method1\m.yucedag_method1\bin\Debug\m.yucedag_method1.exe.config
+C:\c# alıştırma2\m.yucedag_method1\m.yucedag_method1\bin\Debug\m.yucedag_method1.exe
+C:\c# alıştırma2\m.yucedag_method1\m.yucedag_method1\bin\Debug\m.yucedag_method1.pdb
+C:\c# alıştırma2\m.yucedag_method1\m.yucedag_method1\obj\Debug\m.yucedag_method1.csproj.AssemblyReference.cache
+C:\c# alıştırma2\m.yucedag_method1\m.yucedag_method1\obj\Debug\m.yucedag_method1.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\m.yucedag_method1\m.yucedag_method1\obj\Debug\m.yucedag_method1.exe
+C:\c# alıştırma2\m.yucedag_method1\m.yucedag_method1\obj\Debug\m.yucedag_method1.pdb

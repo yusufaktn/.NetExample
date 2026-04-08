@@ -1,0 +1,7 @@
+C:\c# alıştırma2\murat_yucedag_çokbiçimlilik\murat_yucedag_çokbiçimlilik\bin\Debug\murat_yucedag_çokbiçimlilik.exe.config
+C:\c# alıştırma2\murat_yucedag_çokbiçimlilik\murat_yucedag_çokbiçimlilik\bin\Debug\murat_yucedag_çokbiçimlilik.exe
+C:\c# alıştırma2\murat_yucedag_çokbiçimlilik\murat_yucedag_çokbiçimlilik\bin\Debug\murat_yucedag_çokbiçimlilik.pdb
+C:\c# alıştırma2\murat_yucedag_çokbiçimlilik\murat_yucedag_çokbiçimlilik\obj\Debug\murat_yucedag_çokbiçimlilik.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat_yucedag_çokbiçimlilik\murat_yucedag_çokbiçimlilik\obj\Debug\murat_yucedag_çokbiçimlilik.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat_yucedag_çokbiçimlilik\murat_yucedag_çokbiçimlilik\obj\Debug\murat_yucedag_çokbiçimlilik.exe
+C:\c# alıştırma2\murat_yucedag_çokbiçimlilik\murat_yucedag_çokbiçimlilik\obj\Debug\murat_yucedag_çokbiçimlilik.pdb

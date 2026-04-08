@@ -1,0 +1,7 @@
+C:\c# alıştırma2\alıstırmarastgele\alıstırmarastgele\bin\Debug\alıstırmarastgele.exe.config
+C:\c# alıştırma2\alıstırmarastgele\alıstırmarastgele\bin\Debug\alıstırmarastgele.exe
+C:\c# alıştırma2\alıstırmarastgele\alıstırmarastgele\bin\Debug\alıstırmarastgele.pdb
+C:\c# alıştırma2\alıstırmarastgele\alıstırmarastgele\obj\Debug\alıstırmarastgele.csproj.AssemblyReference.cache
+C:\c# alıştırma2\alıstırmarastgele\alıstırmarastgele\obj\Debug\alıstırmarastgele.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\alıstırmarastgele\alıstırmarastgele\obj\Debug\alıstırmarastgele.exe
+C:\c# alıştırma2\alıstırmarastgele\alıstırmarastgele\obj\Debug\alıstırmarastgele.pdb

@@ -1,0 +1,7 @@
+C:\c# alıştırma2\kapsülleme\kapsülleme\bin\Debug\kapsülleme.exe.config
+C:\c# alıştırma2\kapsülleme\kapsülleme\bin\Debug\kapsülleme.exe
+C:\c# alıştırma2\kapsülleme\kapsülleme\bin\Debug\kapsülleme.pdb
+C:\c# alıştırma2\kapsülleme\kapsülleme\obj\Debug\kapsülleme.csproj.AssemblyReference.cache
+C:\c# alıştırma2\kapsülleme\kapsülleme\obj\Debug\kapsülleme.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\kapsülleme\kapsülleme\obj\Debug\kapsülleme.exe
+C:\c# alıştırma2\kapsülleme\kapsülleme\obj\Debug\kapsülleme.pdb

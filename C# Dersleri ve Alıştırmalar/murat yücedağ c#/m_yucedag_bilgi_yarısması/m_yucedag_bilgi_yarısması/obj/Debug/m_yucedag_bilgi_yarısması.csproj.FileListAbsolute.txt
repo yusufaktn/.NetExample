@@ -1,0 +1,7 @@
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_bilgi_yarısması\m_yucedag_bilgi_yarısması\bin\Debug\m_yucedag_bilgi_yarısması.exe.config
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_bilgi_yarısması\m_yucedag_bilgi_yarısması\bin\Debug\m_yucedag_bilgi_yarısması.exe
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_bilgi_yarısması\m_yucedag_bilgi_yarısması\bin\Debug\m_yucedag_bilgi_yarısması.pdb
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_bilgi_yarısması\m_yucedag_bilgi_yarısması\obj\Debug\m_yucedag_bilgi_yarısması.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_bilgi_yarısması\m_yucedag_bilgi_yarısması\obj\Debug\m_yucedag_bilgi_yarısması.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_bilgi_yarısması\m_yucedag_bilgi_yarısması\obj\Debug\m_yucedag_bilgi_yarısması.exe
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_bilgi_yarısması\m_yucedag_bilgi_yarısması\obj\Debug\m_yucedag_bilgi_yarısması.pdb

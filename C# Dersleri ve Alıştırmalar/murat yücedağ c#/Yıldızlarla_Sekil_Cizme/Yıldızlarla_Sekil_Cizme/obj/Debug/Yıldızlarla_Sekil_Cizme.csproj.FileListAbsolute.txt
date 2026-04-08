@@ -1,0 +1,7 @@
+C:\c# alıştırma2\Yıldızlarla_Sekil_Cizme\Yıldızlarla_Sekil_Cizme\obj\Debug\Yıldızlarla_Sekil_Cizme.csproj.AssemblyReference.cache
+C:\c# alıştırma2\Yıldızlarla_Sekil_Cizme\Yıldızlarla_Sekil_Cizme\obj\Debug\Yıldızlarla_Sekil_Cizme.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\Yıldızlarla_Sekil_Cizme\Yıldızlarla_Sekil_Cizme\bin\Debug\Yıldızlarla_Sekil_Cizme.exe.config
+C:\c# alıştırma2\Yıldızlarla_Sekil_Cizme\Yıldızlarla_Sekil_Cizme\bin\Debug\Yıldızlarla_Sekil_Cizme.exe
+C:\c# alıştırma2\Yıldızlarla_Sekil_Cizme\Yıldızlarla_Sekil_Cizme\bin\Debug\Yıldızlarla_Sekil_Cizme.pdb
+C:\c# alıştırma2\Yıldızlarla_Sekil_Cizme\Yıldızlarla_Sekil_Cizme\obj\Debug\Yıldızlarla_Sekil_Cizme.exe
+C:\c# alıştırma2\Yıldızlarla_Sekil_Cizme\Yıldızlarla_Sekil_Cizme\obj\Debug\Yıldızlarla_Sekil_Cizme.pdb

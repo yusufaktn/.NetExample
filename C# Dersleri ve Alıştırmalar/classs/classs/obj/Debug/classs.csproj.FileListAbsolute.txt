@@ -1,0 +1,7 @@
+C:\c# alıştırma2\classs\classs\bin\Debug\classs.exe.config
+C:\c# alıştırma2\classs\classs\bin\Debug\classs.exe
+C:\c# alıştırma2\classs\classs\bin\Debug\classs.pdb
+C:\c# alıştırma2\classs\classs\obj\Debug\classs.csproj.AssemblyReference.cache
+C:\c# alıştırma2\classs\classs\obj\Debug\classs.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\classs\classs\obj\Debug\classs.exe
+C:\c# alıştırma2\classs\classs\obj\Debug\classs.pdb

@@ -1,0 +1,7 @@
+C:\c# alıştırma2\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\c# alıştırma2\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\c# alıştırma2\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\c# alıştırma2\Diziler\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\c# alıştırma2\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\c# alıştırma2\Diziler\Diziler\obj\Debug\Diziler.pdb

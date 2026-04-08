@@ -1,0 +1,7 @@
+C:\c# eğitim alıştırmaları\doWhile\doWhile\bin\Debug\doWhile.exe.config
+C:\c# eğitim alıştırmaları\doWhile\doWhile\bin\Debug\doWhile.exe
+C:\c# eğitim alıştırmaları\doWhile\doWhile\bin\Debug\doWhile.pdb
+C:\c# eğitim alıştırmaları\doWhile\doWhile\obj\Debug\doWhile.csproj.AssemblyReference.cache
+C:\c# eğitim alıştırmaları\doWhile\doWhile\obj\Debug\doWhile.csproj.CoreCompileInputs.cache
+C:\c# eğitim alıştırmaları\doWhile\doWhile\obj\Debug\doWhile.exe
+C:\c# eğitim alıştırmaları\doWhile\doWhile\obj\Debug\doWhile.pdb

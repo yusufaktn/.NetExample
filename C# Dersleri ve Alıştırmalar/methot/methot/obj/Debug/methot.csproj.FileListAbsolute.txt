@@ -1,0 +1,7 @@
+C:\c# alıştırma2\methot\methot\bin\Debug\methot.exe.config
+C:\c# alıştırma2\methot\methot\bin\Debug\methot.exe
+C:\c# alıştırma2\methot\methot\bin\Debug\methot.pdb
+C:\c# alıştırma2\methot\methot\obj\Debug\methot.csproj.AssemblyReference.cache
+C:\c# alıştırma2\methot\methot\obj\Debug\methot.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\methot\methot\obj\Debug\methot.exe
+C:\c# alıştırma2\methot\methot\obj\Debug\methot.pdb

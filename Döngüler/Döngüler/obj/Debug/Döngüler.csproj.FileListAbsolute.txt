@@ -1,0 +1,7 @@
+C:\Döngüler\Döngüler\bin\Debug\Döngüler.exe.config
+C:\Döngüler\Döngüler\bin\Debug\Döngüler.exe
+C:\Döngüler\Döngüler\bin\Debug\Döngüler.pdb
+C:\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.AssemblyReference.cache
+C:\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.CoreCompileInputs.cache
+C:\Döngüler\Döngüler\obj\Debug\Döngüler.exe
+C:\Döngüler\Döngüler\obj\Debug\Döngüler.pdb

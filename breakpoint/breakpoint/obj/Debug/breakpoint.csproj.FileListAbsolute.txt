@@ -1,0 +1,7 @@
+C:\breakpoint\breakpoint\bin\Debug\breakpoint.exe.config
+C:\breakpoint\breakpoint\bin\Debug\breakpoint.exe
+C:\breakpoint\breakpoint\bin\Debug\breakpoint.pdb
+C:\breakpoint\breakpoint\obj\Debug\breakpoint.csproj.AssemblyReference.cache
+C:\breakpoint\breakpoint\obj\Debug\breakpoint.csproj.CoreCompileInputs.cache
+C:\breakpoint\breakpoint\obj\Debug\breakpoint.exe
+C:\breakpoint\breakpoint\obj\Debug\breakpoint.pdb

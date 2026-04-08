@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{194B14CF-E4CB-4B18-BFD1-A59EFFA3BCAD}|Website\\Website.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\website\\website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194B14CF-E4CB-4B18-BFD1-A59EFFA3BCAD}|Website\\Website.csproj|solutionrelative:website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\Website\\Website\\Program.cs",
+              "RelativeDocumentMoniker": "Website\\Program.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\Website\\Website\\Program.cs*",
+              "RelativeToolTip": "Website\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:18:59.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

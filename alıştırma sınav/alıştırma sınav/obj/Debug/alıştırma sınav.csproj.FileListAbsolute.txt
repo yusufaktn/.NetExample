@@ -1,0 +1,14 @@
+C:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\bin\Debug\alıştırma sınav.exe.config
+C:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\bin\Debug\alıştırma sınav.exe
+C:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\bin\Debug\alıştırma sınav.pdb
+C:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\obj\Debug\alıştırma sınav.csproj.AssemblyReference.cache
+C:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\obj\Debug\alıştırma sınav.csproj.CoreCompileInputs.cache
+C:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\obj\Debug\alıştırma sınav.exe
+C:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\obj\Debug\alıştırma sınav.pdb
+D:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\bin\Debug\alıştırma sınav.exe.config
+D:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\bin\Debug\alıştırma sınav.exe
+D:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\bin\Debug\alıştırma sınav.pdb
+D:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\obj\Debug\alıştırma sınav.csproj.AssemblyReference.cache
+D:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\obj\Debug\alıştırma sınav.csproj.CoreCompileInputs.cache
+D:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\obj\Debug\alıştırma sınav.exe
+D:\c# eğitim alıştırmaları\alıştırma sınav\alıştırma sınav\obj\Debug\alıştırma sınav.pdb

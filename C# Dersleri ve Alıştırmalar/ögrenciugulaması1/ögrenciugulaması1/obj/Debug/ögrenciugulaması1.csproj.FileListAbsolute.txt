@@ -1,0 +1,7 @@
+C:\c# alıştırma2\ögrenciugulaması1\ögrenciugulaması1\bin\Debug\ögrenciugulaması1.exe.config
+C:\c# alıştırma2\ögrenciugulaması1\ögrenciugulaması1\bin\Debug\ögrenciugulaması1.exe
+C:\c# alıştırma2\ögrenciugulaması1\ögrenciugulaması1\bin\Debug\ögrenciugulaması1.pdb
+C:\c# alıştırma2\ögrenciugulaması1\ögrenciugulaması1\obj\Debug\ögrenciugulaması1.csproj.AssemblyReference.cache
+C:\c# alıştırma2\ögrenciugulaması1\ögrenciugulaması1\obj\Debug\ögrenciugulaması1.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\ögrenciugulaması1\ögrenciugulaması1\obj\Debug\ögrenciugulaması1.exe
+C:\c# alıştırma2\ögrenciugulaması1\ögrenciugulaması1\obj\Debug\ögrenciugulaması1.pdb

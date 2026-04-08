@@ -1,0 +1,14 @@
+C:\c# alıştırma2\matrisler_alıstırma\matrisler_alıstırma\bin\Debug\matrisler_alıstırma.exe.config
+C:\c# alıştırma2\matrisler_alıstırma\matrisler_alıstırma\bin\Debug\matrisler_alıstırma.exe
+C:\c# alıştırma2\matrisler_alıstırma\matrisler_alıstırma\bin\Debug\matrisler_alıstırma.pdb
+C:\c# alıştırma2\matrisler_alıstırma\matrisler_alıstırma\obj\Debug\matrisler_alıstırma.csproj.AssemblyReference.cache
+C:\c# alıştırma2\matrisler_alıstırma\matrisler_alıstırma\obj\Debug\matrisler_alıstırma.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\matrisler_alıstırma\matrisler_alıstırma\obj\Debug\matrisler_alıstırma.exe
+C:\c# alıştırma2\matrisler_alıstırma\matrisler_alıstırma\obj\Debug\matrisler_alıstırma.pdb
+C:\c# alıştırma2\murat yücedağ c#\matrisler_alıstırma\matrisler_alıstırma\bin\Debug\matrisler_alıstırma.exe.config
+C:\c# alıştırma2\murat yücedağ c#\matrisler_alıstırma\matrisler_alıstırma\bin\Debug\matrisler_alıstırma.exe
+C:\c# alıştırma2\murat yücedağ c#\matrisler_alıstırma\matrisler_alıstırma\bin\Debug\matrisler_alıstırma.pdb
+C:\c# alıştırma2\murat yücedağ c#\matrisler_alıstırma\matrisler_alıstırma\obj\Debug\matrisler_alıstırma.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat yücedağ c#\matrisler_alıstırma\matrisler_alıstırma\obj\Debug\matrisler_alıstırma.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat yücedağ c#\matrisler_alıstırma\matrisler_alıstırma\obj\Debug\matrisler_alıstırma.exe
+C:\c# alıştırma2\murat yücedağ c#\matrisler_alıstırma\matrisler_alıstırma\obj\Debug\matrisler_alıstırma.pdb

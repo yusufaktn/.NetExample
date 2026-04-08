@@ -1,0 +1,2 @@
+C:\CSharpCourse\ortalam2\obj\Debug\ortalam2.csproj.AssemblyReference.cache
+C:\CSharpCourse\ortalam2\obj\Debug\ortalam2.csproj.CoreCompileInputs.cache

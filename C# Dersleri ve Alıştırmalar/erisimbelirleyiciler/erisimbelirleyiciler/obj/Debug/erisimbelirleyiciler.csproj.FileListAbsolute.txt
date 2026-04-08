@@ -1,0 +1,7 @@
+C:\c# alıştırma2\erisimbelirleyiciler\erisimbelirleyiciler\obj\Debug\erisimbelirleyiciler.csproj.AssemblyReference.cache
+C:\c# alıştırma2\erisimbelirleyiciler\erisimbelirleyiciler\obj\Debug\erisimbelirleyiciler.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\erisimbelirleyiciler\erisimbelirleyiciler\bin\Debug\erisimbelirleyiciler.exe.config
+C:\c# alıştırma2\erisimbelirleyiciler\erisimbelirleyiciler\bin\Debug\erisimbelirleyiciler.exe
+C:\c# alıştırma2\erisimbelirleyiciler\erisimbelirleyiciler\bin\Debug\erisimbelirleyiciler.pdb
+C:\c# alıştırma2\erisimbelirleyiciler\erisimbelirleyiciler\obj\Debug\erisimbelirleyiciler.exe
+C:\c# alıştırma2\erisimbelirleyiciler\erisimbelirleyiciler\obj\Debug\erisimbelirleyiciler.pdb

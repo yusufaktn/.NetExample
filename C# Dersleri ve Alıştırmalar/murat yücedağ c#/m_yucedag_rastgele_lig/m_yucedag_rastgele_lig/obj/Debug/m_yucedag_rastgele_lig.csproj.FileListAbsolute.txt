@@ -1,0 +1,7 @@
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_rastgele_lig\m_yucedag_rastgele_lig\bin\Debug\m_yucedag_rastgele_lig.exe.config
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_rastgele_lig\m_yucedag_rastgele_lig\bin\Debug\m_yucedag_rastgele_lig.exe
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_rastgele_lig\m_yucedag_rastgele_lig\bin\Debug\m_yucedag_rastgele_lig.pdb
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_rastgele_lig\m_yucedag_rastgele_lig\obj\Debug\m_yucedag_rastgele_lig.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_rastgele_lig\m_yucedag_rastgele_lig\obj\Debug\m_yucedag_rastgele_lig.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_rastgele_lig\m_yucedag_rastgele_lig\obj\Debug\m_yucedag_rastgele_lig.exe
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_rastgele_lig\m_yucedag_rastgele_lig\obj\Debug\m_yucedag_rastgele_lig.pdb

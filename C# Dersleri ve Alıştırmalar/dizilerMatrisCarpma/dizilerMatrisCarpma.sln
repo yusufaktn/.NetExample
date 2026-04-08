@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dizilerMatrisCarpma", "dizilerMatrisCarpma\dizilerMatrisCarpma.csproj", "{20160B50-27C8-46E1-9A8B-1A5E672355E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20160B50-27C8-46E1-9A8B-1A5E672355E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20160B50-27C8-46E1-9A8B-1A5E672355E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20160B50-27C8-46E1-9A8B-1A5E672355E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20160B50-27C8-46E1-9A8B-1A5E672355E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5138BFAB-8986-4B9A-AF21-E0ECA3175906}
+	EndGlobalSection
+EndGlobal

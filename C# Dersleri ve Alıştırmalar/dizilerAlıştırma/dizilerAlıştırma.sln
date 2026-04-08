@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dizilerAlıştırma", "dizilerAlıştırma\dizilerAlıştırma.csproj", "{A2C0A135-1297-4723-9DCA-78873621167B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C0A135-1297-4723-9DCA-78873621167B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C0A135-1297-4723-9DCA-78873621167B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C0A135-1297-4723-9DCA-78873621167B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C0A135-1297-4723-9DCA-78873621167B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1AA282-39E0-48E7-9DAC-77F3EF62DE4D}
+	EndGlobalSection
+EndGlobal

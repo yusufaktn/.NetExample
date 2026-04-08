@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nL/vI0FhJLjc1WESoibeKhckCDQxpygnzdkcid5QxYlIaAYeMd11J1MvA2SSLd36GRsfSa5yF1qvtFXlxcEG6A==",
+  "success": true,
+  "projectFilePath": "C:\\c# alıştırma2\\murat yücedağ c#\\WebApplication2\\WebApplication2\\WebApplication2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\myusu\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

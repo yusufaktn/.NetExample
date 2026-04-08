@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\Stack_Heap_boxing_unboxing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D237CD47-C7F9-4F1E-A901-077C9AFADF93}|Stack_Heap_boxing_unboxing\\Stack_Heap_boxing_unboxing.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\stack_heap_boxing_unboxing\\stack_heap_boxing_unboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D237CD47-C7F9-4F1E-A901-077C9AFADF93}|Stack_Heap_boxing_unboxing\\Stack_Heap_boxing_unboxing.csproj|solutionrelative:stack_heap_boxing_unboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\Stack_Heap_boxing_unboxing\\Stack_Heap_boxing_unboxing\\Program.cs",
+              "RelativeDocumentMoniker": "Stack_Heap_boxing_unboxing\\Program.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\Stack_Heap_boxing_unboxing\\Stack_Heap_boxing_unboxing\\Program.cs",
+              "RelativeToolTip": "Stack_Heap_boxing_unboxing\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:34:18.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

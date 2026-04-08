@@ -1,0 +1,7 @@
+C:\c# alıştırma2\matematiksel_fonksiyonlar\matematiksel_fonksiyonlar\bin\Debug\matematiksel_fonksiyonlar.exe.config
+C:\c# alıştırma2\matematiksel_fonksiyonlar\matematiksel_fonksiyonlar\bin\Debug\matematiksel_fonksiyonlar.exe
+C:\c# alıştırma2\matematiksel_fonksiyonlar\matematiksel_fonksiyonlar\bin\Debug\matematiksel_fonksiyonlar.pdb
+C:\c# alıştırma2\matematiksel_fonksiyonlar\matematiksel_fonksiyonlar\obj\Debug\matematiksel_fonksiyonlar.csproj.AssemblyReference.cache
+C:\c# alıştırma2\matematiksel_fonksiyonlar\matematiksel_fonksiyonlar\obj\Debug\matematiksel_fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\matematiksel_fonksiyonlar\matematiksel_fonksiyonlar\obj\Debug\matematiksel_fonksiyonlar.exe
+C:\c# alıştırma2\matematiksel_fonksiyonlar\matematiksel_fonksiyonlar\obj\Debug\matematiksel_fonksiyonlar.pdb

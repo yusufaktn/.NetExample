@@ -1,0 +1,14 @@
+C:\for\for\bin\Debug\@for.exe.config
+C:\for\for\bin\Debug\@for.exe
+C:\for\for\bin\Debug\@for.pdb
+C:\for\for\obj\Debug\for.csproj.AssemblyReference.cache
+C:\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\for\for\obj\Debug\@for.exe
+C:\for\for\obj\Debug\@for.pdb
+C:\c# eğitim alıştırmaları\for\for\bin\Debug\@for.exe.config
+C:\c# eğitim alıştırmaları\for\for\bin\Debug\@for.exe
+C:\c# eğitim alıştırmaları\for\for\bin\Debug\@for.pdb
+C:\c# eğitim alıştırmaları\for\for\obj\Debug\for.csproj.AssemblyReference.cache
+C:\c# eğitim alıştırmaları\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\c# eğitim alıştırmaları\for\for\obj\Debug\@for.exe
+C:\c# eğitim alıştırmaları\for\for\obj\Debug\@for.pdb

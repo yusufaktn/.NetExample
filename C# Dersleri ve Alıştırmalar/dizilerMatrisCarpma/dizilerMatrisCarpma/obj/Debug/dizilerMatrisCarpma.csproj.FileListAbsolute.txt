@@ -1,0 +1,7 @@
+C:\c# alıştırma2\dizilerMatrisCarpma\dizilerMatrisCarpma\bin\Debug\dizilerMatrisCarpma.exe.config
+C:\c# alıştırma2\dizilerMatrisCarpma\dizilerMatrisCarpma\bin\Debug\dizilerMatrisCarpma.exe
+C:\c# alıştırma2\dizilerMatrisCarpma\dizilerMatrisCarpma\bin\Debug\dizilerMatrisCarpma.pdb
+C:\c# alıştırma2\dizilerMatrisCarpma\dizilerMatrisCarpma\obj\Debug\dizilerMatrisCarpma.csproj.AssemblyReference.cache
+C:\c# alıştırma2\dizilerMatrisCarpma\dizilerMatrisCarpma\obj\Debug\dizilerMatrisCarpma.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\dizilerMatrisCarpma\dizilerMatrisCarpma\obj\Debug\dizilerMatrisCarpma.exe
+C:\c# alıştırma2\dizilerMatrisCarpma\dizilerMatrisCarpma\obj\Debug\dizilerMatrisCarpma.pdb

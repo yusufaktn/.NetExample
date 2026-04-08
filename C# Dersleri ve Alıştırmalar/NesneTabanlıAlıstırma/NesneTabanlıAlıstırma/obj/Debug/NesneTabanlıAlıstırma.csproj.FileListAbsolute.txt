@@ -1,0 +1,7 @@
+C:\c# alıştırma2\NesneTabanlıAlıstırma\NesneTabanlıAlıstırma\bin\Debug\NesneTabanlıAlıstırma.exe.config
+C:\c# alıştırma2\NesneTabanlıAlıstırma\NesneTabanlıAlıstırma\bin\Debug\NesneTabanlıAlıstırma.exe
+C:\c# alıştırma2\NesneTabanlıAlıstırma\NesneTabanlıAlıstırma\bin\Debug\NesneTabanlıAlıstırma.pdb
+C:\c# alıştırma2\NesneTabanlıAlıstırma\NesneTabanlıAlıstırma\obj\Debug\NesneTabanlıAlıstırma.csproj.AssemblyReference.cache
+C:\c# alıştırma2\NesneTabanlıAlıstırma\NesneTabanlıAlıstırma\obj\Debug\NesneTabanlıAlıstırma.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\NesneTabanlıAlıstırma\NesneTabanlıAlıstırma\obj\Debug\NesneTabanlıAlıstırma.exe
+C:\c# alıştırma2\NesneTabanlıAlıstırma\NesneTabanlıAlıstırma\obj\Debug\NesneTabanlıAlıstırma.pdb

@@ -1,0 +1,7 @@
+C:\c# alıştırma2\Tek_Sayi\Tek_Sayi\bin\Debug\Tek_Sayi.exe.config
+C:\c# alıştırma2\Tek_Sayi\Tek_Sayi\bin\Debug\Tek_Sayi.exe
+C:\c# alıştırma2\Tek_Sayi\Tek_Sayi\bin\Debug\Tek_Sayi.pdb
+C:\c# alıştırma2\Tek_Sayi\Tek_Sayi\obj\Debug\Tek_Sayi.csproj.AssemblyReference.cache
+C:\c# alıştırma2\Tek_Sayi\Tek_Sayi\obj\Debug\Tek_Sayi.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\Tek_Sayi\Tek_Sayi\obj\Debug\Tek_Sayi.exe
+C:\c# alıştırma2\Tek_Sayi\Tek_Sayi\obj\Debug\Tek_Sayi.pdb

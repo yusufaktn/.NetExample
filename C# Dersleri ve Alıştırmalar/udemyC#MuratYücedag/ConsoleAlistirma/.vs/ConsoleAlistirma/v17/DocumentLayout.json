@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# Dersleri ve Al\u0131\u015Ft\u0131rmalar\\udemyC#MuratY\u00FCcedag\\ConsoleAlistirma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568B2F68-4A8A-4D0F-9F65-C86740EE0EEC}|ConsoleAlistirma\\ConsoleAlistirma.csproj|c:\\c# dersleri ve al\u0131\u015Ft\u0131rmalar\\udemyc#muraty\u00FCcedag\\consolealistirma\\consolealistirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B2F68-4A8A-4D0F-9F65-C86740EE0EEC}|ConsoleAlistirma\\ConsoleAlistirma.csproj|solutionrelative:consolealistirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568B2F68-4A8A-4D0F-9F65-C86740EE0EEC}|ConsoleAlistirma\\ConsoleAlistirma.csproj|c:\\c# dersleri ve al\u0131\u015Ft\u0131rmalar\\udemyc#muraty\u00FCcedag\\consolealistirma\\consolealistirma\\ornek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568B2F68-4A8A-4D0F-9F65-C86740EE0EEC}|ConsoleAlistirma\\ConsoleAlistirma.csproj|solutionrelative:consolealistirma\\ornek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ornek.cs",
+              "DocumentMoniker": "C:\\C# Dersleri ve Al\u0131\u015Ft\u0131rmalar\\udemyC#MuratY\u00FCcedag\\ConsoleAlistirma\\ConsoleAlistirma\\Ornek.cs",
+              "RelativeDocumentMoniker": "ConsoleAlistirma\\Ornek.cs",
+              "ToolTip": "C:\\C# Dersleri ve Al\u0131\u015Ft\u0131rmalar\\udemyC#MuratY\u00FCcedag\\ConsoleAlistirma\\ConsoleAlistirma\\Ornek.cs",
+              "RelativeToolTip": "ConsoleAlistirma\\Ornek.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:20:31.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Dersleri ve Al\u0131\u015Ft\u0131rmalar\\udemyC#MuratY\u00FCcedag\\ConsoleAlistirma\\ConsoleAlistirma\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAlistirma\\Program.cs",
+              "ToolTip": "C:\\C# Dersleri ve Al\u0131\u015Ft\u0131rmalar\\udemyC#MuratY\u00FCcedag\\ConsoleAlistirma\\ConsoleAlistirma\\Program.cs",
+              "RelativeToolTip": "ConsoleAlistirma\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:19:51.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\c# alıştırma2\murat yücedağ c#\myMethod\myMethod\bin\Debug\myMethod.exe.config
+C:\c# alıştırma2\murat yücedağ c#\myMethod\myMethod\bin\Debug\myMethod.exe
+C:\c# alıştırma2\murat yücedağ c#\myMethod\myMethod\bin\Debug\myMethod.pdb
+C:\c# alıştırma2\murat yücedağ c#\myMethod\myMethod\obj\Debug\myMethod.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat yücedağ c#\myMethod\myMethod\obj\Debug\myMethod.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat yücedağ c#\myMethod\myMethod\obj\Debug\myMethod.exe
+C:\c# alıştırma2\murat yücedağ c#\myMethod\myMethod\obj\Debug\myMethod.pdb

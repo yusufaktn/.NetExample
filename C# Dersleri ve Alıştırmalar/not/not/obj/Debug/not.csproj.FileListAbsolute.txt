@@ -1,0 +1,7 @@
+C:\c# alıştırma2\not\not\bin\Debug\not.exe.config
+C:\c# alıştırma2\not\not\bin\Debug\not.exe
+C:\c# alıştırma2\not\not\bin\Debug\not.pdb
+C:\c# alıştırma2\not\not\obj\Debug\not.csproj.AssemblyReference.cache
+C:\c# alıştırma2\not\not\obj\Debug\not.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\not\not\obj\Debug\not.exe
+C:\c# alıştırma2\not\not\obj\Debug\not.pdb

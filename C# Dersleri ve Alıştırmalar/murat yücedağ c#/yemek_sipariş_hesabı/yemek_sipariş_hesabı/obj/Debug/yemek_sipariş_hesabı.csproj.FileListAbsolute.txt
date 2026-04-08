@@ -1,0 +1,7 @@
+C:\c# alıştırma2\murat yücedağ c#\yemek_sipariş_hesabı\yemek_sipariş_hesabı\bin\Debug\yemek_sipariş_hesabı.exe.config
+C:\c# alıştırma2\murat yücedağ c#\yemek_sipariş_hesabı\yemek_sipariş_hesabı\bin\Debug\yemek_sipariş_hesabı.exe
+C:\c# alıştırma2\murat yücedağ c#\yemek_sipariş_hesabı\yemek_sipariş_hesabı\bin\Debug\yemek_sipariş_hesabı.pdb
+C:\c# alıştırma2\murat yücedağ c#\yemek_sipariş_hesabı\yemek_sipariş_hesabı\obj\Debug\yemek_sipariş_hesabı.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat yücedağ c#\yemek_sipariş_hesabı\yemek_sipariş_hesabı\obj\Debug\yemek_sipariş_hesabı.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat yücedağ c#\yemek_sipariş_hesabı\yemek_sipariş_hesabı\obj\Debug\yemek_sipariş_hesabı.exe
+C:\c# alıştırma2\murat yücedağ c#\yemek_sipariş_hesabı\yemek_sipariş_hesabı\obj\Debug\yemek_sipariş_hesabı.pdb

@@ -1,0 +1,7 @@
+C:\c# alıştırma2\murat yücedağ c#\Metin_belgesi_muratyucedag\Metin_belgesi_muratyucedag\bin\Debug\Metin_belgesi_muratyucedag.exe.config
+C:\c# alıştırma2\murat yücedağ c#\Metin_belgesi_muratyucedag\Metin_belgesi_muratyucedag\bin\Debug\Metin_belgesi_muratyucedag.exe
+C:\c# alıştırma2\murat yücedağ c#\Metin_belgesi_muratyucedag\Metin_belgesi_muratyucedag\bin\Debug\Metin_belgesi_muratyucedag.pdb
+C:\c# alıştırma2\murat yücedağ c#\Metin_belgesi_muratyucedag\Metin_belgesi_muratyucedag\obj\Debug\Metin_belgesi_muratyucedag.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat yücedağ c#\Metin_belgesi_muratyucedag\Metin_belgesi_muratyucedag\obj\Debug\Metin_belgesi_muratyucedag.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat yücedağ c#\Metin_belgesi_muratyucedag\Metin_belgesi_muratyucedag\obj\Debug\Metin_belgesi_muratyucedag.exe
+C:\c# alıştırma2\murat yücedağ c#\Metin_belgesi_muratyucedag\Metin_belgesi_muratyucedag\obj\Debug\Metin_belgesi_muratyucedag.pdb

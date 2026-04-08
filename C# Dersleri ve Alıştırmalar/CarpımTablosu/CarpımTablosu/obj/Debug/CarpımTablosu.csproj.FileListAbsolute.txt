@@ -1,0 +1,7 @@
+C:\c# alıştırma2\CarpımTablosu\CarpımTablosu\bin\Debug\CarpımTablosu.exe.config
+C:\c# alıştırma2\CarpımTablosu\CarpımTablosu\bin\Debug\CarpımTablosu.exe
+C:\c# alıştırma2\CarpımTablosu\CarpımTablosu\bin\Debug\CarpımTablosu.pdb
+C:\c# alıştırma2\CarpımTablosu\CarpımTablosu\obj\Debug\CarpımTablosu.csproj.AssemblyReference.cache
+C:\c# alıştırma2\CarpımTablosu\CarpımTablosu\obj\Debug\CarpımTablosu.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\CarpımTablosu\CarpımTablosu\obj\Debug\CarpımTablosu.exe
+C:\c# alıştırma2\CarpımTablosu\CarpımTablosu\obj\Debug\CarpımTablosu.pdb

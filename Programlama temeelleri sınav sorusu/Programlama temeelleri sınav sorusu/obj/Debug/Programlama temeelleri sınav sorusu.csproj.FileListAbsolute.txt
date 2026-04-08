@@ -1,0 +1,14 @@
+C:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\bin\Debug\Programlama temeelleri sınav sorusu.exe.config
+C:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\bin\Debug\Programlama temeelleri sınav sorusu.exe
+C:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\bin\Debug\Programlama temeelleri sınav sorusu.pdb
+C:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\obj\Debug\Programlama temeelleri sınav sorusu.csproj.AssemblyReference.cache
+C:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\obj\Debug\Programlama temeelleri sınav sorusu.csproj.CoreCompileInputs.cache
+C:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\obj\Debug\Programlama temeelleri sınav sorusu.exe
+C:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\obj\Debug\Programlama temeelleri sınav sorusu.pdb
+D:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\bin\Debug\Programlama temeelleri sınav sorusu.exe.config
+D:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\bin\Debug\Programlama temeelleri sınav sorusu.exe
+D:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\bin\Debug\Programlama temeelleri sınav sorusu.pdb
+D:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\obj\Debug\Programlama temeelleri sınav sorusu.csproj.AssemblyReference.cache
+D:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\obj\Debug\Programlama temeelleri sınav sorusu.csproj.CoreCompileInputs.cache
+D:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\obj\Debug\Programlama temeelleri sınav sorusu.exe
+D:\c# eğitim alıştırmaları\Programlama temeelleri sınav sorusu\Programlama temeelleri sınav sorusu\obj\Debug\Programlama temeelleri sınav sorusu.pdb

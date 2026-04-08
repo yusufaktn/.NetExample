@@ -1,0 +1,14 @@
+C:\Döngüler\Döngüler\bin\Debug\Döngüler.exe.config
+C:\Döngüler\Döngüler\bin\Debug\Döngüler.exe
+C:\Döngüler\Döngüler\bin\Debug\Döngüler.pdb
+C:\Döngüler\Döngüler\obj\Debug\DöngülerFaktöriyel.csproj.AssemblyReference.cache
+C:\Döngüler\Döngüler\obj\Debug\DöngülerFaktöriyel.csproj.CoreCompileInputs.cache
+C:\Döngüler\Döngüler\obj\Debug\Döngüler.exe
+C:\Döngüler\Döngüler\obj\Debug\Döngüler.pdb
+C:\c# eğitim alıştırmaları\Döngüler\Döngüler\bin\Debug\Döngüler.exe.config
+C:\c# eğitim alıştırmaları\Döngüler\Döngüler\bin\Debug\Döngüler.exe
+C:\c# eğitim alıştırmaları\Döngüler\Döngüler\bin\Debug\Döngüler.pdb
+C:\c# eğitim alıştırmaları\Döngüler\Döngüler\obj\Debug\DöngülerFaktöriyel.csproj.AssemblyReference.cache
+C:\c# eğitim alıştırmaları\Döngüler\Döngüler\obj\Debug\DöngülerFaktöriyel.csproj.CoreCompileInputs.cache
+C:\c# eğitim alıştırmaları\Döngüler\Döngüler\obj\Debug\Döngüler.exe
+C:\c# eğitim alıştırmaları\Döngüler\Döngüler\obj\Debug\Döngüler.pdb

@@ -1,0 +1,7 @@
+C:\c# alıştırma2\alıstırma method\alıstırma method\bin\Debug\alıstırma method.exe.config
+C:\c# alıştırma2\alıstırma method\alıstırma method\bin\Debug\alıstırma method.exe
+C:\c# alıştırma2\alıstırma method\alıstırma method\bin\Debug\alıstırma method.pdb
+C:\c# alıştırma2\alıstırma method\alıstırma method\obj\Debug\alıstırma method.csproj.AssemblyReference.cache
+C:\c# alıştırma2\alıstırma method\alıstırma method\obj\Debug\alıstırma method.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\alıstırma method\alıstırma method\obj\Debug\alıstırma method.exe
+C:\c# alıştırma2\alıstırma method\alıstırma method\obj\Debug\alıstırma method.pdb

@@ -1,0 +1,7 @@
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_arkaplan müzik\m_yucedag_arkaplan müzik\bin\Debug\m_yucedag_arkaplan müzik.exe.config
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_arkaplan müzik\m_yucedag_arkaplan müzik\bin\Debug\m_yucedag_arkaplan müzik.exe
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_arkaplan müzik\m_yucedag_arkaplan müzik\bin\Debug\m_yucedag_arkaplan müzik.pdb
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_arkaplan müzik\m_yucedag_arkaplan müzik\obj\Debug\m_yucedag_arkaplan müzik.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_arkaplan müzik\m_yucedag_arkaplan müzik\obj\Debug\m_yucedag_arkaplan müzik.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_arkaplan müzik\m_yucedag_arkaplan müzik\obj\Debug\m_yucedag_arkaplan müzik.exe
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_arkaplan müzik\m_yucedag_arkaplan müzik\obj\Debug\m_yucedag_arkaplan müzik.pdb

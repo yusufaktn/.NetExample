@@ -1,0 +1,7 @@
+C:\c# eğitim alıştırmaları\karesinialma\karesinialma\bin\Debug\karesinialma.exe.config
+C:\c# eğitim alıştırmaları\karesinialma\karesinialma\bin\Debug\karesinialma.exe
+C:\c# eğitim alıştırmaları\karesinialma\karesinialma\bin\Debug\karesinialma.pdb
+C:\c# eğitim alıştırmaları\karesinialma\karesinialma\obj\Debug\karesinialma.csproj.AssemblyReference.cache
+C:\c# eğitim alıştırmaları\karesinialma\karesinialma\obj\Debug\karesinialma.csproj.CoreCompileInputs.cache
+C:\c# eğitim alıştırmaları\karesinialma\karesinialma\obj\Debug\karesinialma.exe
+C:\c# eğitim alıştırmaları\karesinialma\karesinialma\obj\Debug\karesinialma.pdb

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2737D5-4DBA-49C2-BD9F-B03CBF32E44E}|m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2737D5-4DBA-49C2-BD9F-B03CBF32E44E}|m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma.csproj|solutionrelative:m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2737D5-4DBA-49C2-BD9F-B03CBF32E44E}|m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2737D5-4DBA-49C2-BD9F-B03CBF32E44E}|m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma.csproj|solutionrelative:m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2737D5-4DBA-49C2-BD9F-B03CBF32E44E}|m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2737D5-4DBA-49C2-BD9F-B03CBF32E44E}|m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma.csproj|solutionrelative:m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2737D5-4DBA-49C2-BD9F-B03CBF32E44E}|m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma.csproj|C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\\u00F6\u011Frenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2737D5-4DBA-49C2-BD9F-B03CBF32E44E}|m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma.csproj|solutionrelative:m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\\u00F6\u011Frenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2737D5-4DBA-49C2-BD9F-B03CBF32E44E}|m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma.csproj|C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\okul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2737D5-4DBA-49C2-BD9F-B03CBF32E44E}|m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma.csproj|solutionrelative:m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\okul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "okul.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\okul.cs",
+              "RelativeDocumentMoniker": "m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\okul.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\okul.cs",
+              "RelativeToolTip": "m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\okul.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:29:02.281Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "araba.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\araba.cs",
+              "RelativeDocumentMoniker": "m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\araba.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\araba.cs",
+              "RelativeToolTip": "m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\araba.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:44:16.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u00F6\u011Frenci.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\\u00F6\u011Frenci.cs",
+              "RelativeDocumentMoniker": "m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\\u00F6\u011Frenci.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\\u00F6\u011Frenci.cs",
+              "RelativeToolTip": "m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\\u00F6\u011Frenci.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:21:40.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\Class1.cs",
+              "RelativeDocumentMoniker": "m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\Class1.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\Class1.cs",
+              "RelativeToolTip": "m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\Class1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:14:33.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\Program.cs",
+              "RelativeDocumentMoniker": "m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\Program.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat y\u00FCceda\u011F c#\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\Program.cs",
+              "RelativeToolTip": "m_yucedag_kar\u0131\u015F\u0131k_al\u0131st\u0131rma\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwEYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:21:03.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

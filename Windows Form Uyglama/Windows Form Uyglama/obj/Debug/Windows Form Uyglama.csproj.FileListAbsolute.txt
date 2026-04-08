@@ -1,0 +1,10 @@
+C:\Windows Form Uyglama\Windows Form Uyglama\bin\Debug\Windows Form Uyglama.exe.config
+C:\Windows Form Uyglama\Windows Form Uyglama\bin\Debug\Windows Form Uyglama.exe
+C:\Windows Form Uyglama\Windows Form Uyglama\bin\Debug\Windows Form Uyglama.pdb
+C:\Windows Form Uyglama\Windows Form Uyglama\obj\Debug\Windows Form Uyglama.csproj.AssemblyReference.cache
+C:\Windows Form Uyglama\Windows Form Uyglama\obj\Debug\Windows_Form_Uyglama.Form1.resources
+C:\Windows Form Uyglama\Windows Form Uyglama\obj\Debug\Windows_Form_Uyglama.Properties.Resources.resources
+C:\Windows Form Uyglama\Windows Form Uyglama\obj\Debug\Windows Form Uyglama.csproj.GenerateResource.cache
+C:\Windows Form Uyglama\Windows Form Uyglama\obj\Debug\Windows Form Uyglama.csproj.CoreCompileInputs.cache
+C:\Windows Form Uyglama\Windows Form Uyglama\obj\Debug\Windows Form Uyglama.exe
+C:\Windows Form Uyglama\Windows Form Uyglama\obj\Debug\Windows Form Uyglama.pdb

@@ -1,0 +1,7 @@
+C:\c# alıştırma2\murat_yucedağ_class\murat_yucedağ_class\bin\Debug\murat_yucedağ_class.exe.config
+C:\c# alıştırma2\murat_yucedağ_class\murat_yucedağ_class\bin\Debug\murat_yucedağ_class.exe
+C:\c# alıştırma2\murat_yucedağ_class\murat_yucedağ_class\bin\Debug\murat_yucedağ_class.pdb
+C:\c# alıştırma2\murat_yucedağ_class\murat_yucedağ_class\obj\Debug\murat_yucedağ_class.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat_yucedağ_class\murat_yucedağ_class\obj\Debug\murat_yucedağ_class.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat_yucedağ_class\murat_yucedağ_class\obj\Debug\murat_yucedağ_class.exe
+C:\c# alıştırma2\murat_yucedağ_class\murat_yucedağ_class\obj\Debug\murat_yucedağ_class.pdb

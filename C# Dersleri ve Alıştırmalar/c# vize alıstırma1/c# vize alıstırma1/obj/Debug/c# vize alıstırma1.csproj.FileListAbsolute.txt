@@ -1,0 +1,7 @@
+C:\c# alıştırma2\c# vize alıstırma1\c# vize alıstırma1\bin\Debug\c# vize alıstırma1.exe.config
+C:\c# alıştırma2\c# vize alıstırma1\c# vize alıstırma1\bin\Debug\c# vize alıstırma1.exe
+C:\c# alıştırma2\c# vize alıstırma1\c# vize alıstırma1\bin\Debug\c# vize alıstırma1.pdb
+C:\c# alıştırma2\c# vize alıstırma1\c# vize alıstırma1\obj\Debug\c# vize alıstırma1.csproj.AssemblyReference.cache
+C:\c# alıştırma2\c# vize alıstırma1\c# vize alıstırma1\obj\Debug\c# vize alıstırma1.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\c# vize alıstırma1\c# vize alıstırma1\obj\Debug\c# vize alıstırma1.exe
+C:\c# alıştırma2\c# vize alıstırma1\c# vize alıstırma1\obj\Debug\c# vize alıstırma1.pdb

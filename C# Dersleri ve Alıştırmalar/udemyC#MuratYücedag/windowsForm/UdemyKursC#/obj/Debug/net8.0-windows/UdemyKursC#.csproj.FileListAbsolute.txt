@@ -1,0 +1,55 @@
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\bin\Debug\net8.0-windows\UdemyKursC#.exe
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\bin\Debug\net8.0-windows\UdemyKursC#.deps.json
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\bin\Debug\net8.0-windows\UdemyKursC#.runtimeconfig.json
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\bin\Debug\net8.0-windows\UdemyKursC#.dll
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\bin\Debug\net8.0-windows\UdemyKursC#.pdb
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.Form1.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.csproj.GenerateResource.cache
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.AssemblyInfoInputs.cache
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.AssemblyInfo.cs
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.dll
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\refint\UdemyKursC#.dll
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.pdb
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.genruntimeconfig.cache
+C:\c# alıştırma2\udemyC#MuratYücedag\UdemyKursC#\UdemyKursC#\obj\Debug\net8.0-windows\ref\UdemyKursC#.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\UdemyKursC#.exe
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\UdemyKursC#.deps.json
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\UdemyKursC#.runtimeconfig.json
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\UdemyKursC#.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\UdemyKursC#.pdb
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.Form1.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.csproj.GenerateResource.cache
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.AssemblyInfoInputs.cache
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.AssemblyInfo.cs
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.csproj.CoreCompileInputs.cache
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\refint\UdemyKursC#.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.pdb
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.genruntimeconfig.cache
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\ref\UdemyKursC#.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.Form2.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.Properties.Resources.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.Form3Alıstırma.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.Form3DortIslem.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.SinemaBiletKayıt.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.FormAylar.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.ProjectBilgi.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.Döngü.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.Denemecs.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.PastaPisirmeSurec.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.MenüStrip.resources
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC#.csproj.AssemblyReference.cache
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKur.BF05D561.Up2Date
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\windowsForm\UdemyKursC#\obj\Debug\net8.0-windows\UdemyKursC_.cAPTCHA.resources

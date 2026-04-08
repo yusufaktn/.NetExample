@@ -1,0 +1,7 @@
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_matematik_menu\m_yucedag_matematik_menu\bin\Debug\m_yucedag_matematik_menu.exe.config
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_matematik_menu\m_yucedag_matematik_menu\bin\Debug\m_yucedag_matematik_menu.exe
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_matematik_menu\m_yucedag_matematik_menu\bin\Debug\m_yucedag_matematik_menu.pdb
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_matematik_menu\m_yucedag_matematik_menu\obj\Debug\m_yucedag_matematik_menu.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_matematik_menu\m_yucedag_matematik_menu\obj\Debug\m_yucedag_matematik_menu.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_matematik_menu\m_yucedag_matematik_menu\obj\Debug\m_yucedag_matematik_menu.exe
+C:\c# alıştırma2\murat yücedağ c#\m_yucedag_matematik_menu\m_yucedag_matematik_menu\obj\Debug\m_yucedag_matematik_menu.pdb

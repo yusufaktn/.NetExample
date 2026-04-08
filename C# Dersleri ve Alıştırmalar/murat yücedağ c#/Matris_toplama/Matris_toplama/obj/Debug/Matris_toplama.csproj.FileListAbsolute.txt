@@ -1,0 +1,14 @@
+C:\c# alıştırma2\Matris_toplama\Matris_toplama\bin\Debug\Matris_toplama.exe.config
+C:\c# alıştırma2\Matris_toplama\Matris_toplama\bin\Debug\Matris_toplama.exe
+C:\c# alıştırma2\Matris_toplama\Matris_toplama\bin\Debug\Matris_toplama.pdb
+C:\c# alıştırma2\Matris_toplama\Matris_toplama\obj\Debug\Matris_toplama.csproj.AssemblyReference.cache
+C:\c# alıştırma2\Matris_toplama\Matris_toplama\obj\Debug\Matris_toplama.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\Matris_toplama\Matris_toplama\obj\Debug\Matris_toplama.exe
+C:\c# alıştırma2\Matris_toplama\Matris_toplama\obj\Debug\Matris_toplama.pdb
+C:\c# alıştırma2\murat yücedağ c#\Matris_toplama\Matris_toplama\bin\Debug\Matris_toplama.exe.config
+C:\c# alıştırma2\murat yücedağ c#\Matris_toplama\Matris_toplama\bin\Debug\Matris_toplama.exe
+C:\c# alıştırma2\murat yücedağ c#\Matris_toplama\Matris_toplama\bin\Debug\Matris_toplama.pdb
+C:\c# alıştırma2\murat yücedağ c#\Matris_toplama\Matris_toplama\obj\Debug\Matris_toplama.csproj.AssemblyReference.cache
+C:\c# alıştırma2\murat yücedağ c#\Matris_toplama\Matris_toplama\obj\Debug\Matris_toplama.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\murat yücedağ c#\Matris_toplama\Matris_toplama\obj\Debug\Matris_toplama.exe
+C:\c# alıştırma2\murat yücedağ c#\Matris_toplama\Matris_toplama\obj\Debug\Matris_toplama.pdb

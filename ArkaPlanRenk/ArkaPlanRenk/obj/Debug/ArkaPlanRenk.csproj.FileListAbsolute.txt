@@ -1,0 +1,10 @@
+C:\ArkaPlanRenk\ArkaPlanRenk\bin\Debug\ArkaPlanRenk.exe.config
+C:\ArkaPlanRenk\ArkaPlanRenk\bin\Debug\ArkaPlanRenk.exe
+C:\ArkaPlanRenk\ArkaPlanRenk\bin\Debug\ArkaPlanRenk.pdb
+C:\ArkaPlanRenk\ArkaPlanRenk\obj\Debug\ArkaPlanRenk.csproj.AssemblyReference.cache
+C:\ArkaPlanRenk\ArkaPlanRenk\obj\Debug\ArkaPlanRenk.Form1.resources
+C:\ArkaPlanRenk\ArkaPlanRenk\obj\Debug\ArkaPlanRenk.Properties.Resources.resources
+C:\ArkaPlanRenk\ArkaPlanRenk\obj\Debug\ArkaPlanRenk.csproj.GenerateResource.cache
+C:\ArkaPlanRenk\ArkaPlanRenk\obj\Debug\ArkaPlanRenk.csproj.CoreCompileInputs.cache
+C:\ArkaPlanRenk\ArkaPlanRenk\obj\Debug\ArkaPlanRenk.exe
+C:\ArkaPlanRenk\ArkaPlanRenk\obj\Debug\ArkaPlanRenk.pdb

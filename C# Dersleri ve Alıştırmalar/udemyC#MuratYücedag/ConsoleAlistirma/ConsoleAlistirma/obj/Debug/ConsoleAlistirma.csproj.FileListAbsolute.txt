@@ -1,0 +1,7 @@
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\ConsoleAlistirma\ConsoleAlistirma\bin\Debug\ConsoleAlistirma.exe.config
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\ConsoleAlistirma\ConsoleAlistirma\bin\Debug\ConsoleAlistirma.exe
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\ConsoleAlistirma\ConsoleAlistirma\bin\Debug\ConsoleAlistirma.pdb
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\ConsoleAlistirma\ConsoleAlistirma\obj\Debug\ConsoleAlistirma.csproj.AssemblyReference.cache
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\ConsoleAlistirma\ConsoleAlistirma\obj\Debug\ConsoleAlistirma.csproj.CoreCompileInputs.cache
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\ConsoleAlistirma\ConsoleAlistirma\obj\Debug\ConsoleAlistirma.exe
+C:\C# Dersleri ve Alıştırmalar\udemyC#MuratYücedag\ConsoleAlistirma\ConsoleAlistirma\obj\Debug\ConsoleAlistirma.pdb

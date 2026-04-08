@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEEF9BD-B676-40B6-A7F3-73AEFCB32780}|murat_yuceda\u011F_class\\murat_yuceda\u011F_class.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEEF9BD-B676-40B6-A7F3-73AEFCB32780}|murat_yuceda\u011F_class\\murat_yuceda\u011F_class.csproj|solutionrelative:murat_yuceda\u011F_class\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEEF9BD-B676-40B6-A7F3-73AEFCB32780}|murat_yuceda\u011F_class\\murat_yuceda\u011F_class.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEEF9BD-B676-40B6-A7F3-73AEFCB32780}|murat_yuceda\u011F_class\\murat_yuceda\u011F_class.csproj|solutionrelative:murat_yuceda\u011F_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEEF9BD-B676-40B6-A7F3-73AEFCB32780}|murat_yuceda\u011F_class\\murat_yuceda\u011F_class.csproj|C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEEF9BD-B676-40B6-A7F3-73AEFCB32780}|murat_yuceda\u011F_class\\murat_yuceda\u011F_class.csproj|solutionrelative:murat_yuceda\u011F_class\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEEF9BD-B676-40B6-A7F3-73AEFCB32780}|murat_yuceda\u011F_class\\murat_yuceda\u011F_class.csproj|C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\bina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEEEF9BD-B676-40B6-A7F3-73AEFCB32780}|murat_yuceda\u011F_class\\murat_yuceda\u011F_class.csproj|solutionrelative:murat_yuceda\u011F_class\\bina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "araba.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\araba.cs",
+              "RelativeDocumentMoniker": "murat_yuceda\u011F_class\\araba.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\araba.cs",
+              "RelativeToolTip": "murat_yuceda\u011F_class\\araba.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:24:58.118Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "personel.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\personel.cs",
+              "RelativeDocumentMoniker": "murat_yuceda\u011F_class\\personel.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\personel.cs",
+              "RelativeToolTip": "murat_yuceda\u011F_class\\personel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:49:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bina.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\bina.cs",
+              "RelativeDocumentMoniker": "murat_yuceda\u011F_class\\bina.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\bina.cs",
+              "RelativeToolTip": "murat_yuceda\u011F_class\\bina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:52:36.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\Program.cs",
+              "RelativeDocumentMoniker": "murat_yuceda\u011F_class\\Program.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\murat_yuceda\u011F_class\\murat_yuceda\u011F_class\\Program.cs",
+              "RelativeToolTip": "murat_yuceda\u011F_class\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T18:22:59.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

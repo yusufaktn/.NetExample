@@ -1,0 +1,10 @@
+C:\WindowsFormToplamaÇıkarma\WindowsFormToplamaÇıkarma\bin\Debug\WindowsFormToplamaÇıkarma.exe.config
+C:\WindowsFormToplamaÇıkarma\WindowsFormToplamaÇıkarma\bin\Debug\WindowsFormToplamaÇıkarma.exe
+C:\WindowsFormToplamaÇıkarma\WindowsFormToplamaÇıkarma\bin\Debug\WindowsFormToplamaÇıkarma.pdb
+C:\WindowsFormToplamaÇıkarma\WindowsFormToplamaÇıkarma\obj\Debug\WindowsFormToplamaÇıkarma.csproj.AssemblyReference.cache
+C:\WindowsFormToplamaÇıkarma\WindowsFormToplamaÇıkarma\obj\Debug\WindowsFormToplamaÇıkarma.Form1.resources
+C:\WindowsFormToplamaÇıkarma\WindowsFormToplamaÇıkarma\obj\Debug\WindowsFormToplamaÇıkarma.Properties.Resources.resources
+C:\WindowsFormToplamaÇıkarma\WindowsFormToplamaÇıkarma\obj\Debug\WindowsFormToplamaÇıkarma.csproj.GenerateResource.cache
+C:\WindowsFormToplamaÇıkarma\WindowsFormToplamaÇıkarma\obj\Debug\WindowsFormToplamaÇıkarma.csproj.CoreCompileInputs.cache
+C:\WindowsFormToplamaÇıkarma\WindowsFormToplamaÇıkarma\obj\Debug\WindowsFormToplamaÇıkarma.exe
+C:\WindowsFormToplamaÇıkarma\WindowsFormToplamaÇıkarma\obj\Debug\WindowsFormToplamaÇıkarma.pdb

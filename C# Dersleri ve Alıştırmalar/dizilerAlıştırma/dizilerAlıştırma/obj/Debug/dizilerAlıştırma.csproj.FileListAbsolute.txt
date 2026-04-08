@@ -1,0 +1,7 @@
+C:\c# alıştırma2\dizilerAlıştırma\dizilerAlıştırma\obj\Debug\dizilerAlıştırma.csproj.AssemblyReference.cache
+C:\c# alıştırma2\dizilerAlıştırma\dizilerAlıştırma\obj\Debug\dizilerAlıştırma.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\dizilerAlıştırma\dizilerAlıştırma\bin\Debug\dizilerAlıştırma.exe.config
+C:\c# alıştırma2\dizilerAlıştırma\dizilerAlıştırma\bin\Debug\dizilerAlıştırma.exe
+C:\c# alıştırma2\dizilerAlıştırma\dizilerAlıştırma\bin\Debug\dizilerAlıştırma.pdb
+C:\c# alıştırma2\dizilerAlıştırma\dizilerAlıştırma\obj\Debug\dizilerAlıştırma.exe
+C:\c# alıştırma2\dizilerAlıştırma\dizilerAlıştırma\obj\Debug\dizilerAlıştırma.pdb
