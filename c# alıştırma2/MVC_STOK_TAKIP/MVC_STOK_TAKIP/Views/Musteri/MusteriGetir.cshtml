@@ -1,0 +1,38 @@
+﻿@model MVC_STOK_TAKIP.Models.Entity.TBL_MUSTERI
+@{
+    ViewBag.Title = "MusteriGetir";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("MusteriGuncelle", "Musteri", FormMethod.Post))
+{
+    <form method="post">
+
+
+        <div class="form-group" style="flex: 1; min-width: 200px;">
+            <label>Ad</label>
+            @Html.TextBoxFor(m => m.AD, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group" style="flex: 1; min-width: 200px;">
+            <label>Marka</label>
+            @Html.TextBoxFor(m => m.SOYAD, new { @class = "form-control" })
+        </div>
+
+
+
+        <div class="form-group" style="flex: 1; min-width: 200px;">
+            <label>Stok</label>
+            @Html.TextBoxFor(m => m.BAKIYE, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group" style="flex: 1; min-width: 200px;">
+            <label>Alış Fiyat</label>
+            @Html.TextBoxFor(m => m.SEHIR, new { @class = "form-control" })
+        </div>
+
+        @Html.HiddenFor(m => m.ID)
+        <button type="submit" class="btn btn-primary" style="margin-top: 16px;">Güncelle</button>
+
+    </form>
+}

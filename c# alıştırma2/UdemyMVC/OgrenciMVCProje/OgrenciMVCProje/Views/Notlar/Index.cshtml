@@ -1,0 +1,57 @@
+﻿@using OgrenciMVCProje.Models.EntityFramework
+@model List<TBL_NOTLAR>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<table style="width:100%" class="table">
+    <thead class="thead-dark">
+        <tr>
+
+            <th scope="col">Not ID</th>
+            <th scope="col">Ogr ID</th>
+            <th scope="col">Ders ID</th>
+            <th scope="col">SINAV 1</th>
+            <th scope="col">SINAV 2</th>
+            <th scope="col">PROJE</th>
+            <th scope="col">ORTALAMA</th>
+            <th scope="col">DURUM</th>
+            <th scope="col">İşlemler</th>
+
+
+
+</thead>
+    <tbody>
+        @foreach (var nt in Model)
+        {
+
+
+
+            <tr>
+
+                <td>@nt.NOTID</td>
+                <td>@(nt.TBL_OGR != null ? nt.TBL_OGR.OGRAD : "Bilinmiyor") </td><!-- Burda bir hata almıştım başka tablodan veri çekmeye çalışırken sebebi bir tane null kayıt olması onun için şart belirttim böylecek null gelen değer için bilinmiyor yazdırdım.-->
+                <td>@nt.DERSID</td>
+                <td>@nt.SINAV1</td>
+                <td>@nt.SINAV2</td>
+                <td>@nt.PROJE</td>
+                <td>@nt.ORTALAMA</td>
+                <td>@nt.DURUM</td>
+                <td>
+                    
+                    <a href="/Notlar/NotGetir/@nt.NOTID" class="btn btn-warning">Güncelle</a>
+                </td>
+
+            </tr>
+
+
+        }
+
+    </tbody>
+</table>
+
+<a href="/Notlar/YeniNotlar" class="btn btn-primary">Yeni Not Ekle</a>

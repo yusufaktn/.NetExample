@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BonusOkulModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TBL_DERSLER">
+    <Key>
+      <PropertyRef Name="DERSID" />
+    </Key>
+    <Property Name="DERSID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DERSAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="DERSKREDI" Type="Int32" />
+    <NavigationProperty Name="Tbl_Brans" Relationship="Self.FK_Tbl_Brans_TBL_DERSLER" FromRole="TBL_DERSLER" ToRole="Tbl_Brans" />
+    <NavigationProperty Name="TBL_NOTLAR" Relationship="Self.FK_TBL_NOTLAR_TBL_DERSLER" FromRole="TBL_DERSLER" ToRole="TBL_NOTLAR" />
+  </EntityType>
+  <EntityType Name="TBL_KULUP">
+    <Key>
+      <PropertyRef Name="KULUP_ID" />
+    </Key>
+    <Property Name="KULUP_ID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KULUP_ADI" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="KULUP_KONT" Type="Int16" />
+    <NavigationProperty Name="TBL_OGR" Relationship="Self.FK_TBL_OGR_TBL_KULUP" FromRole="TBL_KULUP" ToRole="TBL_OGR" />
+  </EntityType>
+  <EntityType Name="TBL_NOTLAR">
+    <Key>
+      <PropertyRef Name="NOTID" />
+    </Key>
+    <Property Name="NOTID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OGRID" Type="Int32" />
+    <Property Name="DERSID" Type="Byte" />
+    <Property Name="SINAV1" Type="Int32" />
+    <Property Name="SINAV2" Type="Int32" />
+    <Property Name="PROJE" Type="Int32" />
+    <Property Name="ORTALAMA" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="DURUM" Type="Boolean" />
+    <NavigationProperty Name="TBL_DERSLER" Relationship="Self.FK_TBL_NOTLAR_TBL_DERSLER" FromRole="TBL_NOTLAR" ToRole="TBL_DERSLER" />
+    <NavigationProperty Name="TBL_OGR" Relationship="Self.FK_TBL_NOTLAR_TBL_OGR" FromRole="TBL_NOTLAR" ToRole="TBL_OGR" />
+  </EntityType>
+  <EntityType Name="TBL_OGR">
+    <Key>
+      <PropertyRef Name="OGRID" />
+    </Key>
+    <Property Name="OGRID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OGRAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="OGRSOYAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="OGRCINSIYET" Type="String" MaxLength="6" FixedLength="false" Unicode="false" />
+    <Property Name="OGRFOTO" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="OGRKULUP" Type="Byte" />
+    <NavigationProperty Name="TBL_KULUP" Relationship="Self.FK_TBL_OGR_TBL_KULUP" FromRole="TBL_OGR" ToRole="TBL_KULUP" />
+    <NavigationProperty Name="TBL_NOTLAR" Relationship="Self.FK_TBL_NOTLAR_TBL_OGR" FromRole="TBL_OGR" ToRole="TBL_NOTLAR" />
+  </EntityType>
+  <EntityType Name="TBL_OGRT">
+    <Key>
+      <PropertyRef Name="OGRTID" />
+    </Key>
+    <Property Name="OGRTID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OGRTAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="OGRTSOYAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Tbl_Brans" Relationship="Self.FK_Tbl_Brans_TBL_OGRT" FromRole="TBL_OGRT" ToRole="Tbl_Brans" />
+  </EntityType>
+  <EntityType Name="Tbl_Brans">
+    <Key>
+      <PropertyRef Name="DERSID" />
+    </Key>
+    <Property Name="OGRTID" Type="Byte" />
+    <Property Name="DERSID" Type="Byte" Nullable="false" />
+    <NavigationProperty Name="TBL_DERSLER" Relationship="Self.FK_Tbl_Brans_TBL_DERSLER" FromRole="Tbl_Brans" ToRole="TBL_DERSLER" />
+    <NavigationProperty Name="TBL_OGRT" Relationship="Self.FK_Tbl_Brans_TBL_OGRT" FromRole="Tbl_Brans" ToRole="TBL_OGRT" />
+  </EntityType>
+  <Association Name="FK_Tbl_Brans_TBL_DERSLER">
+    <End Role="TBL_DERSLER" Type="Self.TBL_DERSLER" Multiplicity="1" />
+    <End Role="Tbl_Brans" Type="Self.Tbl_Brans" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_DERSLER">
+        <PropertyRef Name="DERSID" />
+      </Principal>
+      <Dependent Role="Tbl_Brans">
+        <PropertyRef Name="DERSID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_NOTLAR_TBL_DERSLER">
+    <End Role="TBL_DERSLER" Type="Self.TBL_DERSLER" Multiplicity="0..1" />
+    <End Role="TBL_NOTLAR" Type="Self.TBL_NOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_DERSLER">
+        <PropertyRef Name="DERSID" />
+      </Principal>
+      <Dependent Role="TBL_NOTLAR">
+        <PropertyRef Name="DERSID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_OGR_TBL_KULUP">
+    <End Role="TBL_KULUP" Type="Self.TBL_KULUP" Multiplicity="0..1" />
+    <End Role="TBL_OGR" Type="Self.TBL_OGR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_KULUP">
+        <PropertyRef Name="KULUP_ID" />
+      </Principal>
+      <Dependent Role="TBL_OGR">
+        <PropertyRef Name="OGRKULUP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_NOTLAR_TBL_OGR">
+    <End Role="TBL_OGR" Type="Self.TBL_OGR" Multiplicity="0..1" />
+    <End Role="TBL_NOTLAR" Type="Self.TBL_NOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_OGR">
+        <PropertyRef Name="OGRID" />
+      </Principal>
+      <Dependent Role="TBL_NOTLAR">
+        <PropertyRef Name="OGRID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tbl_Brans_TBL_OGRT">
+    <End Role="TBL_OGRT" Type="Self.TBL_OGRT" Multiplicity="0..1" />
+    <End Role="Tbl_Brans" Type="Self.Tbl_Brans" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_OGRT">
+        <PropertyRef Name="OGRTID" />
+      </Principal>
+      <Dependent Role="Tbl_Brans">
+        <PropertyRef Name="OGRTID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BonusOkulEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="TBL_DERSLER" EntityType="Self.TBL_DERSLER" />
+    <EntitySet Name="TBL_KULUP" EntityType="Self.TBL_KULUP" />
+    <EntitySet Name="TBL_NOTLAR" EntityType="Self.TBL_NOTLAR" />
+    <EntitySet Name="TBL_OGR" EntityType="Self.TBL_OGR" />
+    <EntitySet Name="TBL_OGRT" EntityType="Self.TBL_OGRT" />
+    <EntitySet Name="Tbl_Brans" EntityType="Self.Tbl_Brans" />
+    <AssociationSet Name="FK_Tbl_Brans_TBL_DERSLER" Association="Self.FK_Tbl_Brans_TBL_DERSLER">
+      <End Role="TBL_DERSLER" EntitySet="TBL_DERSLER" />
+      <End Role="Tbl_Brans" EntitySet="Tbl_Brans" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_NOTLAR_TBL_DERSLER" Association="Self.FK_TBL_NOTLAR_TBL_DERSLER">
+      <End Role="TBL_DERSLER" EntitySet="TBL_DERSLER" />
+      <End Role="TBL_NOTLAR" EntitySet="TBL_NOTLAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_OGR_TBL_KULUP" Association="Self.FK_TBL_OGR_TBL_KULUP">
+      <End Role="TBL_KULUP" EntitySet="TBL_KULUP" />
+      <End Role="TBL_OGR" EntitySet="TBL_OGR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_NOTLAR_TBL_OGR" Association="Self.FK_TBL_NOTLAR_TBL_OGR">
+      <End Role="TBL_OGR" EntitySet="TBL_OGR" />
+      <End Role="TBL_NOTLAR" EntitySet="TBL_NOTLAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tbl_Brans_TBL_OGRT" Association="Self.FK_Tbl_Brans_TBL_OGRT">
+      <End Role="TBL_OGRT" EntitySet="TBL_OGRT" />
+      <End Role="Tbl_Brans" EntitySet="Tbl_Brans" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Entity_UrunModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TBL_KATEGORI">
+    <Key>
+      <PropertyRef Name="KATEGORI_ID" />
+    </Key>
+    <Property Name="KATEGORI_ID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KATEGORI_AD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBL_URUN" Relationship="Self.FK_TBL_URUN_TBL_KATEGORI" FromRole="TBL_KATEGORI" ToRole="TBL_URUN" />
+  </EntityType>
+  <EntityType Name="TBL_MUSTERI">
+    <Key>
+      <PropertyRef Name="MUSTERI_ID" />
+    </Key>
+    <Property Name="MUSTERI_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MUSTERI_AD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MUSTERI_SOYAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MUSTERI_SEHIR" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBL_SIPARIS" Relationship="Self.FK_TBL_SIPARIS_TBL_MUSTERI" FromRole="TBL_MUSTERI" ToRole="TBL_SIPARIS" />
+    <Property Name="DURUM" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="TBL_SIPARIS">
+    <Key>
+      <PropertyRef Name="SIPARIS_ID" />
+    </Key>
+    <Property Name="SIPARIS_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="URUN_ID" Type="Int32" />
+    <Property Name="MUSTERI_ID" Type="Int32" />
+    <Property Name="TOPLAM_FIYAT" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="TARIH" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="TBL_MUSTERI" Relationship="Self.FK_TBL_SIPARIS_TBL_MUSTERI" FromRole="TBL_SIPARIS" ToRole="TBL_MUSTERI" />
+    <NavigationProperty Name="TBL_URUN" Relationship="Self.FK_TBL_SIPARIS_TBL_URUN" FromRole="TBL_SIPARIS" ToRole="TBL_URUN" />
+  </EntityType>
+  <EntityType Name="TBL_URUN">
+    <Key>
+      <PropertyRef Name="URUNID" />
+    </Key>
+    <Property Name="URUNID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="URUNAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="URUNMARKA" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="KATEGORI_ID" Type="Byte" />
+    <Property Name="STOKADET" Type="Int32" />
+    <Property Name="DURUM" Type="Boolean" />
+    <Property Name="FIYAT" Type="Decimal" Precision="18" Scale="2" />
+    <NavigationProperty Name="TBL_KATEGORI" Relationship="Self.FK_TBL_URUN_TBL_KATEGORI" FromRole="TBL_URUN" ToRole="TBL_KATEGORI" />
+    <NavigationProperty Name="TBL_SIPARIS" Relationship="Self.FK_TBL_SIPARIS_TBL_URUN" FromRole="TBL_URUN" ToRole="TBL_SIPARIS" />
+  </EntityType>
+  <Association Name="FK_TBL_URUN_TBL_KATEGORI">
+    <End Role="TBL_KATEGORI" Type="Self.TBL_KATEGORI" Multiplicity="0..1" />
+    <End Role="TBL_URUN" Type="Self.TBL_URUN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_KATEGORI">
+        <PropertyRef Name="KATEGORI_ID" />
+      </Principal>
+      <Dependent Role="TBL_URUN">
+        <PropertyRef Name="KATEGORI_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_SIPARIS_TBL_MUSTERI">
+    <End Role="TBL_MUSTERI" Type="Self.TBL_MUSTERI" Multiplicity="0..1" />
+    <End Role="TBL_SIPARIS" Type="Self.TBL_SIPARIS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_MUSTERI">
+        <PropertyRef Name="MUSTERI_ID" />
+      </Principal>
+      <Dependent Role="TBL_SIPARIS">
+        <PropertyRef Name="MUSTERI_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBL_SIPARIS_TBL_URUN">
+    <End Role="TBL_URUN" Type="Self.TBL_URUN" Multiplicity="0..1" />
+    <End Role="TBL_SIPARIS" Type="Self.TBL_SIPARIS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBL_URUN">
+        <PropertyRef Name="URUNID" />
+      </Principal>
+      <Dependent Role="TBL_SIPARIS">
+        <PropertyRef Name="URUN_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Entity_UrunEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="TBL_KATEGORI" EntityType="Self.TBL_KATEGORI" />
+    <EntitySet Name="TBL_MUSTERI" EntityType="Self.TBL_MUSTERI" />
+    <EntitySet Name="TBL_SIPARIS" EntityType="Self.TBL_SIPARIS" />
+    <EntitySet Name="TBL_URUN" EntityType="Self.TBL_URUN" />
+    <AssociationSet Name="FK_TBL_URUN_TBL_KATEGORI" Association="Self.FK_TBL_URUN_TBL_KATEGORI">
+      <End Role="TBL_KATEGORI" EntitySet="TBL_KATEGORI" />
+      <End Role="TBL_URUN" EntitySet="TBL_URUN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_SIPARIS_TBL_MUSTERI" Association="Self.FK_TBL_SIPARIS_TBL_MUSTERI">
+      <End Role="TBL_MUSTERI" EntitySet="TBL_MUSTERI" />
+      <End Role="TBL_SIPARIS" EntitySet="TBL_SIPARIS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBL_SIPARIS_TBL_URUN" Association="Self.FK_TBL_SIPARIS_TBL_URUN">
+      <End Role="TBL_URUN" EntitySet="TBL_URUN" />
+      <End Role="TBL_SIPARIS" EntitySet="TBL_SIPARIS" />
+    </AssociationSet>
+    <FunctionImport Name="MARKAGETIR" ReturnType="Collection(String)" />
+    <FunctionImport Name="GETIR" ReturnType="Collection(Entity_UrunModel.GETIR_Result)" />
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(Entity_UrunModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(Entity_UrunModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <ComplexType Name="GETIR_Result">
+    <Property Type="Int32" Name="MUSTERI_ID" Nullable="false" />
+    <Property Type="String" Name="MUSTERI_AD" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="MUSTERI_SOYAD" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="MUSTERI_SEHIR" Nullable="true" MaxLength="50" />
+    <Property Type="Boolean" Name="DURUM" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

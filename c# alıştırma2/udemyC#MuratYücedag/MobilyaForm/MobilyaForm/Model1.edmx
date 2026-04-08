@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="MobilyaDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="Tbl_Kategori">
+          <Key>
+            <PropertyRef Name="KategoriID" />
+          </Key>
+          <Property Name="KategoriID" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="KategoriAd" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Tbl_Musteri">
+          <Key>
+            <PropertyRef Name="MusteriID" />
+          </Key>
+          <Property Name="MusteriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MusteriAd" Type="varchar" MaxLength="30" />
+          <Property Name="MusteriSoyad" Type="varchar" MaxLength="30" />
+          <Property Name="MusteriTc" Type="varchar" MaxLength="11" />
+          <Property Name="MusteriAdres" Type="varchar(max)" />
+          <Property Name="MusteriBorc" Type="int" />
+        </EntityType>
+        <EntityType Name="Tbl_Odeme">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MusteriID" Type="smallint" />
+          <Property Name="OdemeTarihi" Type="datetime" />
+          <Property Name="Odenen_Miktar" Type="int" />
+        </EntityType>
+        <EntityType Name="Tbl_SiparisDetay">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="SiparisID" Type="int" />
+          <Property Name="UrunID" Type="int" Nullable="false" />
+          <Property Name="Adet" Type="smallint" />
+        </EntityType>
+        <EntityType Name="Tbl_Siparisler">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="MusteriID" Type="int" />
+          <Property Name="SiparisTarihi" Type="datetime" />
+          <Property Name="SiparisToplamı" Type="varchar(max)" />
+        </EntityType>
+        <EntityType Name="Tbl_Urun">
+          <Key>
+            <PropertyRef Name="UrunID" />
+          </Key>
+          <Property Name="UrunID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="KategoriID" Type="smallint" />
+          <Property Name="UrunAd" Type="varchar(max)" />
+          <Property Name="UrunFiyat" Type="varchar(max)" />
+        </EntityType>
+        <Association Name="FK_Tbl_SiparisDetay_Tbl_Urun">
+          <End Role="Tbl_Urun" Type="Self.Tbl_Urun" Multiplicity="1" />
+          <End Role="Tbl_SiparisDetay" Type="Self.Tbl_SiparisDetay" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tbl_Urun">
+              <PropertyRef Name="UrunID" />
+            </Principal>
+            <Dependent Role="Tbl_SiparisDetay">
+              <PropertyRef Name="UrunID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Tbl_Siparisler_Tbl_Musteri">
+          <End Role="Tbl_Musteri" Type="Self.Tbl_Musteri" Multiplicity="0..1" />
+          <End Role="Tbl_Siparisler" Type="Self.Tbl_Siparisler" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tbl_Musteri">
+              <PropertyRef Name="MusteriID" />
+            </Principal>
+            <Dependent Role="Tbl_Siparisler">
+              <PropertyRef Name="MusteriID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Tbl_Urun_Tbl_Kategori">
+          <End Role="Tbl_Kategori" Type="Self.Tbl_Kategori" Multiplicity="0..1" />
+          <End Role="Tbl_Urun" Type="Self.Tbl_Urun" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tbl_Kategori">
+              <PropertyRef Name="KategoriID" />
+            </Principal>
+            <Dependent Role="Tbl_Urun">
+              <PropertyRef Name="KategoriID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="MobilyaDbModelStoreContainer">
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_Kategori" EntityType="Self.Tbl_Kategori" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_Musteri" EntityType="Self.Tbl_Musteri" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_Odeme" EntityType="Self.Tbl_Odeme" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_SiparisDetay" EntityType="Self.Tbl_SiparisDetay" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_Siparisler" EntityType="Self.Tbl_Siparisler" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Tbl_Urun" EntityType="Self.Tbl_Urun" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Tbl_SiparisDetay_Tbl_Urun" Association="Self.FK_Tbl_SiparisDetay_Tbl_Urun">
+            <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+            <End Role="Tbl_SiparisDetay" EntitySet="Tbl_SiparisDetay" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Tbl_Siparisler_Tbl_Musteri" Association="Self.FK_Tbl_Siparisler_Tbl_Musteri">
+            <End Role="Tbl_Musteri" EntitySet="Tbl_Musteri" />
+            <End Role="Tbl_Siparisler" EntitySet="Tbl_Siparisler" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Tbl_Urun_Tbl_Kategori" Association="Self.FK_Tbl_Urun_Tbl_Kategori">
+            <End Role="Tbl_Kategori" EntitySet="Tbl_Kategori" />
+            <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MobilyaDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="Tbl_Kategori">
+          <Key>
+            <PropertyRef Name="KategoriID" />
+          </Key>
+          <Property Name="KategoriID" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="KategoriAd" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Tbl_Urun" Relationship="MobilyaDbModel.FK_Tbl_Urun_Tbl_Kategori" FromRole="Tbl_Kategori" ToRole="Tbl_Urun" />
+        </EntityType>
+        <EntityType Name="Tbl_Musteri">
+          <Key>
+            <PropertyRef Name="MusteriID" />
+          </Key>
+          <Property Name="MusteriID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MusteriAd" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="MusteriSoyad" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="MusteriTc" Type="String" MaxLength="11" FixedLength="false" Unicode="false" />
+          <Property Name="MusteriAdres" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="MusteriBorc" Type="Int32" />
+          <NavigationProperty Name="Tbl_Siparisler" Relationship="MobilyaDbModel.FK_Tbl_Siparisler_Tbl_Musteri" FromRole="Tbl_Musteri" ToRole="Tbl_Siparisler" />
+        </EntityType>
+        <EntityType Name="Tbl_Odeme">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MusteriID" Type="Int16" />
+          <Property Name="OdemeTarihi" Type="DateTime" Precision="3" />
+          <Property Name="Odenen_Miktar" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Tbl_SiparisDetay">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SiparisID" Type="Int32" />
+          <Property Name="UrunID" Type="Int32" Nullable="false" />
+          <Property Name="Adet" Type="Int16" />
+          <NavigationProperty Name="Tbl_Urun" Relationship="MobilyaDbModel.FK_Tbl_SiparisDetay_Tbl_Urun" FromRole="Tbl_SiparisDetay" ToRole="Tbl_Urun" />
+        </EntityType>
+        <EntityType Name="Tbl_Siparisler">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MusteriID" Type="Int32" />
+          <Property Name="SiparisTarihi" Type="DateTime" Precision="3" />
+          <Property Name="SiparisToplamı" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Tbl_Musteri" Relationship="MobilyaDbModel.FK_Tbl_Siparisler_Tbl_Musteri" FromRole="Tbl_Siparisler" ToRole="Tbl_Musteri" />
+        </EntityType>
+        <EntityType Name="Tbl_Urun">
+          <Key>
+            <PropertyRef Name="UrunID" />
+          </Key>
+          <Property Name="UrunID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="KategoriID" Type="Int16" />
+          <Property Name="UrunAd" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="UrunFiyat" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Tbl_Kategori" Relationship="MobilyaDbModel.FK_Tbl_Urun_Tbl_Kategori" FromRole="Tbl_Urun" ToRole="Tbl_Kategori" />
+          <NavigationProperty Name="Tbl_SiparisDetay" Relationship="MobilyaDbModel.FK_Tbl_SiparisDetay_Tbl_Urun" FromRole="Tbl_Urun" ToRole="Tbl_SiparisDetay" />
+        </EntityType>
+        <EntityContainer Name="MobilyaDbEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+          <EntitySet Name="Tbl_Kategori" EntityType="Self.Tbl_Kategori" />
+          <EntitySet Name="Tbl_Musteri" EntityType="Self.Tbl_Musteri" />
+          <EntitySet Name="Tbl_Odeme" EntityType="Self.Tbl_Odeme" />
+          <EntitySet Name="Tbl_SiparisDetay" EntityType="Self.Tbl_SiparisDetay" />
+          <EntitySet Name="Tbl_Siparisler" EntityType="Self.Tbl_Siparisler" />
+          <EntitySet Name="Tbl_Urun" EntityType="Self.Tbl_Urun" />
+          <AssociationSet Name="FK_Tbl_Urun_Tbl_Kategori" Association="MobilyaDbModel.FK_Tbl_Urun_Tbl_Kategori">
+            <End Role="Tbl_Kategori" EntitySet="Tbl_Kategori" />
+            <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Tbl_Siparisler_Tbl_Musteri" Association="MobilyaDbModel.FK_Tbl_Siparisler_Tbl_Musteri">
+            <End Role="Tbl_Musteri" EntitySet="Tbl_Musteri" />
+            <End Role="Tbl_Siparisler" EntitySet="Tbl_Siparisler" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Tbl_SiparisDetay_Tbl_Urun" Association="MobilyaDbModel.FK_Tbl_SiparisDetay_Tbl_Urun">
+            <End Role="Tbl_Urun" EntitySet="Tbl_Urun" />
+            <End Role="Tbl_SiparisDetay" EntitySet="Tbl_SiparisDetay" />
+          </AssociationSet>
+        </EntityContainer>
+        <Association Name="FK_Tbl_Urun_Tbl_Kategori">
+          <End Type="MobilyaDbModel.Tbl_Kategori" Role="Tbl_Kategori" Multiplicity="0..1" />
+          <End Type="MobilyaDbModel.Tbl_Urun" Role="Tbl_Urun" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tbl_Kategori">
+              <PropertyRef Name="KategoriID" />
+            </Principal>
+            <Dependent Role="Tbl_Urun">
+              <PropertyRef Name="KategoriID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Tbl_Siparisler_Tbl_Musteri">
+          <End Type="MobilyaDbModel.Tbl_Musteri" Role="Tbl_Musteri" Multiplicity="0..1" />
+          <End Type="MobilyaDbModel.Tbl_Siparisler" Role="Tbl_Siparisler" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tbl_Musteri">
+              <PropertyRef Name="MusteriID" />
+            </Principal>
+            <Dependent Role="Tbl_Siparisler">
+              <PropertyRef Name="MusteriID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Tbl_SiparisDetay_Tbl_Urun">
+          <End Type="MobilyaDbModel.Tbl_Urun" Role="Tbl_Urun" Multiplicity="1" />
+          <End Type="MobilyaDbModel.Tbl_SiparisDetay" Role="Tbl_SiparisDetay" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Tbl_Urun">
+              <PropertyRef Name="UrunID" />
+            </Principal>
+            <Dependent Role="Tbl_SiparisDetay">
+              <PropertyRef Name="UrunID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MobilyaDbModelStoreContainer" CdmEntityContainer="MobilyaDbEntities">
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="MobilyaDbModel.sysdiagrams">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_Kategori">
+            <EntityTypeMapping TypeName="MobilyaDbModel.Tbl_Kategori">
+              <MappingFragment StoreEntitySet="Tbl_Kategori">
+                <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
+                <ScalarProperty Name="KategoriAd" ColumnName="KategoriAd" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_Musteri">
+            <EntityTypeMapping TypeName="MobilyaDbModel.Tbl_Musteri">
+              <MappingFragment StoreEntitySet="Tbl_Musteri">
+                <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+                <ScalarProperty Name="MusteriAd" ColumnName="MusteriAd" />
+                <ScalarProperty Name="MusteriSoyad" ColumnName="MusteriSoyad" />
+                <ScalarProperty Name="MusteriTc" ColumnName="MusteriTc" />
+                <ScalarProperty Name="MusteriAdres" ColumnName="MusteriAdres" />
+                <ScalarProperty Name="MusteriBorc" ColumnName="MusteriBorc" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_Odeme">
+            <EntityTypeMapping TypeName="MobilyaDbModel.Tbl_Odeme">
+              <MappingFragment StoreEntitySet="Tbl_Odeme">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+                <ScalarProperty Name="OdemeTarihi" ColumnName="OdemeTarihi" />
+                <ScalarProperty Name="Odenen_Miktar" ColumnName="Odenen_Miktar" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_SiparisDetay">
+            <EntityTypeMapping TypeName="MobilyaDbModel.Tbl_SiparisDetay">
+              <MappingFragment StoreEntitySet="Tbl_SiparisDetay">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="SiparisID" ColumnName="SiparisID" />
+                <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+                <ScalarProperty Name="Adet" ColumnName="Adet" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_Siparisler">
+            <EntityTypeMapping TypeName="MobilyaDbModel.Tbl_Siparisler">
+              <MappingFragment StoreEntitySet="Tbl_Siparisler">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+                <ScalarProperty Name="SiparisTarihi" ColumnName="SiparisTarihi" />
+                <ScalarProperty Name="SiparisToplamı" ColumnName="SiparisToplamı" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Tbl_Urun">
+            <EntityTypeMapping TypeName="MobilyaDbModel.Tbl_Urun">
+              <MappingFragment StoreEntitySet="Tbl_Urun">
+                <ScalarProperty Name="UrunID" ColumnName="UrunID" />
+                <ScalarProperty Name="KategoriID" ColumnName="KategoriID" />
+                <ScalarProperty Name="UrunAd" ColumnName="UrunAd" />
+                <ScalarProperty Name="UrunFiyat" ColumnName="UrunFiyat" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

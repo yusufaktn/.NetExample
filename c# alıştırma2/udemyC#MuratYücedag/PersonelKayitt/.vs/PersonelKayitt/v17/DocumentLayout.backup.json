@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\personelkayitt\\personelkayitt\\forms\\grafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|solutionrelative:personelkayitt\\forms\\grafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\personelkayitt\\personelkayitt\\forms\\\u0130statistik_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|solutionrelative:personelkayitt\\forms\\\u0130statistik_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\personelkayitt\\personelkayitt\\forms\\\u0130statistik_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|solutionrelative:personelkayitt\\forms\\\u0130statistik_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\personelkayitt\\personelkayitt\\forms\\grafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|solutionrelative:personelkayitt\\forms\\grafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\personelkayitt\\personelkayitt\\forms\\anafrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|solutionrelative:personelkayitt\\forms\\anafrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\personelkayitt\\forms\\anafrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A76AC195-6AFD-458D-97E3-1492FCD663E4}|PersonelKayitt\\PersonelKayitt.csproj|solutionrelative:personelkayitt\\forms\\anafrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u0130statistik_Form.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\\u0130statistik_Form.cs",
+              "RelativeDocumentMoniker": "PersonelKayitt\\Forms\\\u0130statistik_Form.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\\u0130statistik_Form.cs",
+              "RelativeToolTip": "PersonelKayitt\\Forms\\\u0130statistik_Form.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:30:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0130statistik_Form.cs [Design]",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\\u0130statistik_Form.cs",
+              "RelativeDocumentMoniker": "PersonelKayitt\\Forms\\\u0130statistik_Form.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\\u0130statistik_Form.cs [Design]",
+              "RelativeToolTip": "PersonelKayitt\\Forms\\\u0130statistik_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:30:26.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grafikler.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\Grafikler.cs",
+              "RelativeDocumentMoniker": "PersonelKayitt\\Forms\\Grafikler.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\Grafikler.cs",
+              "RelativeToolTip": "PersonelKayitt\\Forms\\Grafikler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:29:31.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grafikler.cs [Design]",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\Grafikler.cs",
+              "RelativeDocumentMoniker": "PersonelKayitt\\Forms\\Grafikler.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\Grafikler.cs [Design]",
+              "RelativeToolTip": "PersonelKayitt\\Forms\\Grafikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:29:28.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaFrom.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\AnaFrom.cs",
+              "RelativeDocumentMoniker": "PersonelKayitt\\Forms\\AnaFrom.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\AnaFrom.cs",
+              "RelativeToolTip": "PersonelKayitt\\Forms\\AnaFrom.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:26:35.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnaFrom.cs [Design]",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\AnaFrom.cs",
+              "RelativeDocumentMoniker": "PersonelKayitt\\Forms\\AnaFrom.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\PersonelKayitt\\PersonelKayitt\\Forms\\AnaFrom.cs [Design]",
+              "RelativeToolTip": "PersonelKayitt\\Forms\\AnaFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:26:34.026Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

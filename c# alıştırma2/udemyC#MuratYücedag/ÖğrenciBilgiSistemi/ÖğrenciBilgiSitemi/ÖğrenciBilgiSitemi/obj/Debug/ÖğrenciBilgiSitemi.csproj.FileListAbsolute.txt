@@ -1,0 +1,17 @@
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\bin\Debug\ÖğrenciBilgiSitemi.exe.config
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\bin\Debug\ÖğrenciBilgiSitemi.exe
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\bin\Debug\ÖğrenciBilgiSitemi.pdb
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.csproj.AssemblyReference.cache
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.Properties.Resources.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.csproj.GenerateResource.cache
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.exe
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.pdb
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.AkademisyenGiriş.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.ÖğrenciGiriş.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.ÖğrenciNotlar.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.Akademisyen.İşlemSeç.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.Giriş.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.Akademisyen.Dersİşlemleri.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.Akademisyen.Öğrenciİşlemleri.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\ÖğrenciBilgiSistemi\ÖğrenciBilgiSitemi\ÖğrenciBilgiSitemi\obj\Debug\ÖğrenciBilgiSitemi.Akademisyen.Not_Islemleri.resources

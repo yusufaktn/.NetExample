@@ -1,0 +1,71 @@
+﻿@model OgrenciMVCProje.Models.EntityFramework.TBL_OGR
+@{
+    ViewBag.Title = "YeniOgrenci";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<form method="post">
+    <div class="form-group">
+        <label>Öğrenci Adı</label>
+        <input type="text" class="form-control" placeholder="Öğrenci Adı Girin" name="OGRAD">
+    </div>
+
+
+
+
+    <div class="form-group">
+        <label>Öğrenci Soyad</label>
+        <input type="text" class="form-control" placeholder="Öğrenci Soyadı Girin" name="OGRSOYAD">
+    </div>
+
+
+
+
+
+    <div class="form-group">
+        <label>Öğrenci Cinsiyet</label>
+        <input type="text" class="form-control" placeholder="Öğrenci Cinsiyet Girin" name="OGRCINSIYET">
+    </div>
+
+
+
+
+
+    <div  class="from-group">
+        <label>Öğrenci Kulüp</label>
+
+        @Html.DropDownListFor(m => m.TBL_KULUP.KULUP_ID, (List<SelectListItem>)ViewBag.dgr,"Kulüp Seçin", new { @class = "form-control"})
+
+        
+    </div>
+
+
+
+
+
+
+
+
+    @*Burası DropDownList kullanımına bir örnek*@
+
+    @*<div class="form-group">
+            <label>Öğrenci Şehir</label>
+           @Html.DropDownList("Şehirler",
+
+        new[]
+        {
+        new SelectListItem(){Value="1",Text="Ankara"},
+        new SelectListItem() { Value = "2", Text = "İstanbul" },
+        new SelectListItem() { Value = "3", Text = "Bursa" }
+
+        }, "Şeehir Seçiniz", new { @class = "form-control" })
+        </div>*@
+
+
+
+
+    <br />
+    <button type="submit" class="btn btn-primary">Ekle</button>
+</form>
+

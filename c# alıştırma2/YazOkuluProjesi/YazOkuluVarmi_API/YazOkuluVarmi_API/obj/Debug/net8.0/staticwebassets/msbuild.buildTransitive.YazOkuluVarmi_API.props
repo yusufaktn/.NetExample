@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\YazOkuluVarmi_API.props" />
+</Project>

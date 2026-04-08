@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f783e2efadb247308986037be4b4bfd7" Name="Diagram1">
+        <EntityTypeShape EntityType="BonusOkulModel.sysdiagrams" Width="1.5" PointX="9.5" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="BonusOkulModel.TBL_DERSLER" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="BonusOkulModel.TBL_KULUP" Width="1.5" PointX="1.5" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BonusOkulModel.TBL_NOTLAR" Width="1.5" PointX="5" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BonusOkulModel.TBL_OGR" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BonusOkulModel.TBL_OGRT" Width="1.5" PointX="3.75" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BonusOkulModel.Tbl_Brans" Width="1.5" PointX="6.5" PointY="6" IsExpanded="true" />
+        <AssociationConnector Association="BonusOkulModel.FK_Tbl_Brans_TBL_DERSLER" ManuallyRouted="false" />
+        <AssociationConnector Association="BonusOkulModel.FK_TBL_NOTLAR_TBL_DERSLER" ManuallyRouted="false" />
+        <AssociationConnector Association="BonusOkulModel.FK_TBL_OGR_TBL_KULUP" ManuallyRouted="false" />
+        <AssociationConnector Association="BonusOkulModel.FK_TBL_NOTLAR_TBL_OGR" ManuallyRouted="false" />
+        <AssociationConnector Association="BonusOkulModel.FK_Tbl_Brans_TBL_OGRT" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

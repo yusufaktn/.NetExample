@@ -1,0 +1,1 @@
+Data Source=DESKTOP-1623\MSSQLSERVER1;Initial Catalog=Personel;Integrated Security=True;Trust Server Certificate=True

@@ -1,0 +1,13 @@
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\bin\Debug\MobilyaForm.exe.config
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\bin\Debug\MobilyaForm.exe
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\bin\Debug\MobilyaForm.pdb
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\obj\Debug\MobilyaForm.csproj.AssemblyReference.cache
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\obj\Debug\MobilyaForm.GirisForm.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\obj\Debug\MobilyaForm.MusteriEkle.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\obj\Debug\MobilyaForm.MusteriForm.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\obj\Debug\MobilyaForm.MüsteriBilgi.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\obj\Debug\MobilyaForm.Properties.Resources.resources
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\obj\Debug\MobilyaForm.csproj.GenerateResource.cache
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\obj\Debug\MobilyaForm.csproj.CoreCompileInputs.cache
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\obj\Debug\MobilyaForm.exe
+C:\c# alıştırma2\udemyC#MuratYücedag\MobilyaForm\MobilyaForm\obj\Debug\MobilyaForm.pdb

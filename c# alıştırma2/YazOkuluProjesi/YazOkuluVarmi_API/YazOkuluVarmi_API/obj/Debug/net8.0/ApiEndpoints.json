@@ -1,0 +1,41 @@
+[
+  {
+    "ContainingType": "YazOkuluVarmi_API.Controllers.DersController",
+    "Method": "Get",
+    "RelativePath": "Ders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetDers"
+  },
+  {
+    "ContainingType": "YazOkuluVarmi_API.Controllers.UniversiteController",
+    "Method": "Get",
+    "RelativePath": "Universite",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetUniversite"
+  },
+  {
+    "ContainingType": "YazOkuluVarmi_API.Controllers.UniversiteController",
+    "Method": "Get",
+    "RelativePath": "Universite/{bkod}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bkod",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetUniversiteByBkod"
+  }
+]

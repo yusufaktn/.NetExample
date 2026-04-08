@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\MobilyaForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{350D4BC0-0CB5-48A9-BC7D-4522A0AEA2CC}|MobilyaForm\\MobilyaForm.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\mobilyaform\\mobilyaform\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{350D4BC0-0CB5-48A9-BC7D-4522A0AEA2CC}|MobilyaForm\\MobilyaForm.csproj|solutionrelative:mobilyaform\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\MobilyaForm\\MobilyaForm\\Model1.edmx",
+              "RelativeDocumentMoniker": "MobilyaForm\\Model1.edmx",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\MobilyaForm\\MobilyaForm\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MobilyaForm\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-06T14:44:52.62Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

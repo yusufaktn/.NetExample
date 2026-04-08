@@ -1,0 +1,50 @@
+﻿@using MVC_STOK_TAKIP.Models.Entity
+@model List<TBL_URUN> 
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<div class="input-group mb-3">
+    @using (Html.BeginForm("Index", "Urunler", FormMethod.Get))
+    {
+        @Html.TextBox("p", null, new { @class = "form-control", placeholder = "Ürün Adı Ara..." })
+        <br />
+        <div class="input-group-append">
+            <button class="btn btn-outline-secondary" type="submit">Ara</button>
+        </div>
+    }
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>AD</th>
+            <th>MARKA</th>
+            <th>STOK</th>
+            <th>ALIŞ FİYAT</th>
+            <th>SATIŞ FİYAT</th>
+            <th>KATEGORİ ADI</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in Model)
+        {
+            <tr>
+                <td>@x.ID</td>
+                <td>@x.AD</td>
+                <td>@x.MARKA</td>
+                <td>@x.STOK</td>
+                <td>@x.ALIS_FIYAT</td>
+                <td>@x.SATIS_FIYAT</td>
+                <td>@(x.TBL_KATEGORI != null ? @x.TBL_KATEGORI.AD : "Bilinmiyor")</td>
+                <td><a href="/Urunler/Sil/@x.ID" class="btn btn-danger">Sil</a></td>
+                <td><a href="/Urunler/UrunGetir/@x.ID" class="btn btn-success">Güncelle</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="/Urunler/YeniUrun" class="btn btn-primary">Yeni Ürün Ekle</a>

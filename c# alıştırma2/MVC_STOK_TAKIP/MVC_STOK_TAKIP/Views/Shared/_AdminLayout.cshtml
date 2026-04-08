@@ -1,0 +1,51 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link href="~/Content/css/navbar.css" rel="stylesheet" />
+    <script src="~/Scripts/navbar.js"></script>
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-custom navbar-mainbg">
+        <a class="navbar-brand navbar-logo" href="#">Takip Sistemi</a>
+        <button class="navbar-toggler" type="button" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fas fa-bars text-white"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <div class="hori-selector"><div class="left"></div><div class="right"></div></div>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Index", "Urunler")"><i class="fas fa-tachometer-alt"></i>Ürünler</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="@Url.Action("Index", "Musteri")"><i class="far fa-address-book"></i>Müşteriler</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Index", "Kategori")"><i class="far fa-clone"></i>Kategoriler</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Index", "Satislar")"><i class="far fa-calendar-alt"></i>Satışlar</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Index", "Admin")"><i class="far fa-chart-bar"></i>Kullanıcı Ekle</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+</body>
+</html>

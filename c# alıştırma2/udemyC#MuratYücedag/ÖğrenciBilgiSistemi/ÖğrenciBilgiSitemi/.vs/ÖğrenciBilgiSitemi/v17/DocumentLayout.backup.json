@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\\u00D6\u011FrenciBilgiSistemi\\\u00D6\u011FrenciBilgiSitemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99390723-F8F7-4BF4-BA25-E2D094881A9E}|\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\\u00F6\u011Frencibilgisistemi\\\u00F6\u011Frencibilgisitemi\\\u00F6\u011Frencibilgisitemi\\akademisyen\\not_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99390723-F8F7-4BF4-BA25-E2D094881A9E}|\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi.csproj|solutionrelative:\u00F6\u011Frencibilgisitemi\\akademisyen\\not_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99390723-F8F7-4BF4-BA25-E2D094881A9E}|\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\\u00F6\u011Frencibilgisistemi\\\u00F6\u011Frencibilgisitemi\\\u00F6\u011Frencibilgisitemi\\akademisyen\\not_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99390723-F8F7-4BF4-BA25-E2D094881A9E}|\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi.csproj|solutionrelative:\u00F6\u011Frencibilgisitemi\\akademisyen\\not_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99390723-F8F7-4BF4-BA25-E2D094881A9E}|\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\\u00F6\u011Frencibilgisistemi\\\u00F6\u011Frencibilgisitemi\\\u00F6\u011Frencibilgisitemi\\akademisyen\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{99390723-F8F7-4BF4-BA25-E2D094881A9E}|\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi.csproj|solutionrelative:\u00F6\u011Frencibilgisitemi\\akademisyen\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99390723-F8F7-4BF4-BA25-E2D094881A9E}|\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\\u00F6\u011Frencibilgisistemi\\\u00F6\u011Frencibilgisitemi\\\u00F6\u011Frencibilgisitemi\\akademisyen\\\u0130\u015Flemse\u00E7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99390723-F8F7-4BF4-BA25-E2D094881A9E}|\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi.csproj|solutionrelative:\u00F6\u011Frencibilgisitemi\\akademisyen\\\u0130\u015Flemse\u00E7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\\u00D6\u011FrenciBilgiSistemi\\\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\DataSet1.xsd",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\\u00D6\u011FrenciBilgiSistemi\\\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\DataSet1.xsd",
+              "RelativeToolTip": "\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-28T10:58:52.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Not_Islemleri.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\\u00D6\u011FrenciBilgiSistemi\\\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\Not_Islemleri.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\Not_Islemleri.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\\u00D6\u011FrenciBilgiSistemi\\\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\Not_Islemleri.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\Not_Islemleri.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:43:37.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Not_Islemleri.cs [Design]",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\\u00D6\u011FrenciBilgiSistemi\\\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\Not_Islemleri.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\Not_Islemleri.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\\u00D6\u011FrenciBilgiSistemi\\\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\Not_Islemleri.cs [Design]",
+              "RelativeToolTip": "\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\Not_Islemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:29:06.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0130\u015FlemSe\u00E7.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\\u00D6\u011FrenciBilgiSistemi\\\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\\u0130\u015FlemSe\u00E7.cs",
+              "RelativeDocumentMoniker": "\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\\u0130\u015FlemSe\u00E7.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\\u00D6\u011FrenciBilgiSistemi\\\u00D6\u011FrenciBilgiSitemi\\\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\\u0130\u015FlemSe\u00E7.cs",
+              "RelativeToolTip": "\u00D6\u011FrenciBilgiSitemi\\Akademisyen\\\u0130\u015FlemSe\u00E7.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:27:29.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

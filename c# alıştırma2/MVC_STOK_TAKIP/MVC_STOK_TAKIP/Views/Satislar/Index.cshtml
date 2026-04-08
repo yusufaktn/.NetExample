@@ -1,0 +1,46 @@
+﻿@using MVC_STOK_TAKIP.Models.Entity
+@model List<TBL_SATIS>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>ÜRÜN ADI</th>
+            <th>MÜŞTERİ ADI</th>
+            <th>PERSONEL ADI</th>
+            <th>FİYAT</th>
+            <th>TARİH</th>
+
+
+        </tr>
+
+    </thead>
+
+
+    @foreach (var x in Model)
+    {
+
+        <tr>
+            <td>@x.ID</td>
+            <td>@x.TBL_URUN.AD</td>
+            <td>@x.TBL_MUSTERI.AD @x.TBL_MUSTERI.SOYAD</td>
+            <td>@x.TBL_PERSONEL.AD @x.TBL_PERSONEL.SOYAD</td>
+            <td>@x.FIYAT</td>
+            <td>@x.TARIH</td>
+            <td> <a href="/Musteri/MusteriSil/@x.ID" class="btn btn-danger">Sil</a> </td>
+            <td> <a href="/Musteri/MusteriGetir/@x.ID" class="btn btn-success">Güncelle</a> </td>
+        </tr>
+
+
+    }
+
+
+
+</table>
+<a href="/Satislar/YeniSatis" class="btn btn-primary">Yeni Satış Ekle</a>

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\N Katmanl\u0131 Mimari\\N_Katmanl\u0131Mimari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35A992-BF54-4D82-B290-CAD30B8BAAA6}|N_Katmanl\u0131Mimari\\N_Katmanl\u0131Mimari.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\n katmanl\u0131 mimari\\n_katmanl\u0131mimari\\n_katmanl\u0131mimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F35A992-BF54-4D82-B290-CAD30B8BAAA6}|N_Katmanl\u0131Mimari\\N_Katmanl\u0131Mimari.csproj|solutionrelative:n_katmanl\u0131mimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5157BD1B-5460-47A8-8DEB-7DD8339E8E99}|DataAccessLayer\\DataAccessLayer.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\n katmanl\u0131 mimari\\n_katmanl\u0131mimari\\dataaccesslayer\\dalpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5157BD1B-5460-47A8-8DEB-7DD8339E8E99}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F35A992-BF54-4D82-B290-CAD30B8BAAA6}|N_Katmanl\u0131Mimari\\N_Katmanl\u0131Mimari.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\n katmanl\u0131 mimari\\n_katmanl\u0131mimari\\n_katmanl\u0131mimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F35A992-BF54-4D82-B290-CAD30B8BAAA6}|N_Katmanl\u0131Mimari\\N_Katmanl\u0131Mimari.csproj|solutionrelative:n_katmanl\u0131mimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED80D90-2E45-4A8E-AE3F-5CD51431716D}|LogicLayer\\LogicLayer.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\udemyc#muraty\u00FCcedag\\n katmanl\u0131 mimari\\n_katmanl\u0131mimari\\logiclayer\\logicpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED80D90-2E45-4A8E-AE3F-5CD51431716D}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\logicpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogicPersonel.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\N Katmanl\u0131 Mimari\\N_Katmanl\u0131Mimari\\LogicLayer\\LogicPersonel.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\LogicPersonel.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\N Katmanl\u0131 Mimari\\N_Katmanl\u0131Mimari\\LogicLayer\\LogicPersonel.cs",
+              "RelativeToolTip": "LogicLayer\\LogicPersonel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:04:51.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALPersonel.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\N Katmanl\u0131 Mimari\\N_Katmanl\u0131Mimari\\DataAccessLayer\\DALPersonel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DALPersonel.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\N Katmanl\u0131 Mimari\\N_Katmanl\u0131Mimari\\DataAccessLayer\\DALPersonel.cs",
+              "RelativeToolTip": "DataAccessLayer\\DALPersonel.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:56:05.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\N Katmanl\u0131 Mimari\\N_Katmanl\u0131Mimari\\N_Katmanl\u0131Mimari\\Form1.cs",
+              "RelativeDocumentMoniker": "N_Katmanl\u0131Mimari\\Form1.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\N Katmanl\u0131 Mimari\\N_Katmanl\u0131Mimari\\N_Katmanl\u0131Mimari\\Form1.cs",
+              "RelativeToolTip": "N_Katmanl\u0131Mimari\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:54:42.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\N Katmanl\u0131 Mimari\\N_Katmanl\u0131Mimari\\N_Katmanl\u0131Mimari\\Form1.cs",
+              "RelativeDocumentMoniker": "N_Katmanl\u0131Mimari\\Form1.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\udemyC#MuratY\u00FCcedag\\N Katmanl\u0131 Mimari\\N_Katmanl\u0131Mimari\\N_Katmanl\u0131Mimari\\Form1.cs [Design]",
+              "RelativeToolTip": "N_Katmanl\u0131Mimari\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:57:58.167Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

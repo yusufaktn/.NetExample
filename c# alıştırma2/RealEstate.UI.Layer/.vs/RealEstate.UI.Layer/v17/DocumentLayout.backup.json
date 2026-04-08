@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# al\u0131\u015Ft\u0131rma2\\RealEstate.UI.Layer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41659CBB-A6AB-43B3-AEE8-9420761406EB}|RealEstate.UI.Layer\\RealEstate.UI.Layer.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\realestate.ui.layer\\realestate.ui.layer\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41659CBB-A6AB-43B3-AEE8-9420761406EB}|RealEstate.UI.Layer\\RealEstate.UI.Layer.csproj|solutionrelative:realestate.ui.layer\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88203A35-C96E-4A34-B1BB-943579A3F1C2}|RealEstate.BusinessLayer\\RealEstate.BusinessLayer.csproj|c:\\c# al\u0131\u015Ft\u0131rma2\\realestate.ui.layer\\realestate.businesslayer\\concrate\\consultantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88203A35-C96E-4A34-B1BB-943579A3F1C2}|RealEstate.BusinessLayer\\RealEstate.BusinessLayer.csproj|solutionrelative:realestate.businesslayer\\concrate\\consultantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultantManager.cs",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\RealEstate.UI.Layer\\RealEstate.BusinessLayer\\Concrate\\ConsultantManager.cs",
+              "RelativeDocumentMoniker": "RealEstate.BusinessLayer\\Concrate\\ConsultantManager.cs",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\RealEstate.UI.Layer\\RealEstate.BusinessLayer\\Concrate\\ConsultantManager.cs",
+              "RelativeToolTip": "RealEstate.BusinessLayer\\Concrate\\ConsultantManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:05:01.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\c# al\u0131\u015Ft\u0131rma2\\RealEstate.UI.Layer\\RealEstate.UI.Layer\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "RealEstate.UI.Layer\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\c# al\u0131\u015Ft\u0131rma2\\RealEstate.UI.Layer\\RealEstate.UI.Layer\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "RealEstate.UI.Layer\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAAAF8BAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T17:05:43.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+﻿@using OgrenciMVCProje.Models.EntityFramework
+@model List<TBL_OGR>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<table style="width:100%" class="table">
+   <thead class="thead-dark">
+       <tr>
+
+           <th scope="col">ID</th>
+           <th scope="col">Adı</th>
+           <th scope="col">Soyadı</th>
+           <th scope="col">Cinsiyet</th>
+           <th scope="col">Foto</th>
+           <th scope="col">Kulüp</th>
+           <th scope="col">İşlemler</th>
+</thead>
+<tbody>
+    @foreach (var ogr in Model)
+    {
+
+
+
+        <tr>
+
+            <td>@ogr.OGRID</td>
+            <td>@ogr.OGRAD</td>
+            <td>@ogr.OGRSOYAD</td>
+            <td>@ogr.OGRCINSIYET</td>
+            <td>@ogr.OGRFOTO</td>
+            <td>@(ogr.TBL_KULUP != null ? ogr.TBL_KULUP.KULUP_ADI : "Bilinmiyor")</td>
+            <td>
+                <a href="/Ogrenci/Sil/@ogr.OGRID" class="btn btn-danger">Sil</a>
+                <a href="/Ogrenci/OgrenciGetir/@ogr.OGRID" class="btn btn-success">Güncelle</a>
+            </td>
+
+        </tr>
+
+
+
+
+
+
+    }
+
+</tbody>
+</table>
+<a href="/Ogrenci/YeniOgrenci" class="btn btn-primary">Yeni Öğrenci Ekle</a>

@@ -1,0 +1,77 @@
+﻿@model OgrenciMVCProje.Models.EntityFramework.TBL_NOTLAR
+
+@{
+    ViewBag.Title = "YeniNotlar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form method="post" id="notform">
+    <div class="form-group">
+        <label>Ogr ID</label>
+        <input type="text" class="form-control" placeholder="Öğrenci ID Girin" name="OGRID">
+    </div>
+
+    <div class="form-group">
+        <label>Ders Adı</label>
+        <input type="text" class="form-control" placeholder="Ders Adı Seçin" name="DERSID">
+    </div>
+
+    <div class="form-group">
+        <label>Sınav 1</label>
+        <input type="text" class="form-control" placeholder="Sınav 1 Girin" name="SINAV1" id="sinav1">
+    </div>
+
+    <div class="form-group">
+        <label>Sınav 2</label>
+        <input type="text" class="form-control" placeholder="Sınav 2 Girin" name="SINAV2" id="sinav2">
+    </div>
+
+
+    <div class="form-group">
+        <label>Proje</label>
+        <input type="text" class="form-control" placeholder="Proje Girin" name="PROJE" id="proje">
+    </div>
+
+    <div class="form-group">
+        <label>Ortalama</label>
+        <input type="number"  class="form-control"  name="ORTALAMA" id="ortalama" step="0.01"  >
+
+    </div>
+
+    <div class="form-group">
+        <label>Durum </label>
+        <input type="text" class="form-control" name="DURUM" id="durum" >
+    </div>
+
+    <button type="submit" class="btn btn-primary">Ekle</button>
+    
+</form>
+<br />
+
+<button type="button" class="btn btn-primary" onclick="hesaplaOrtalama()">Hesapla</button>
+
+<script>
+    function hesaplaOrtalama() {
+        // Sınav ve proje değerlerini al
+        const sayi1 = parseFloat(document.getElementById("sinav1").value) || 0;
+        const sayi2 = parseFloat(document.getElementById("sinav2").value) || 0;
+        const sayi3 = parseFloat(document.getElementById("proje").value) || 0;
+
+        // Ortalama hesapla
+        var ortalama = (sayi1 + sayi2 + sayi3) / 3;
+
+        // Hesaplanan ortalamayı ortalama inputuna yaz
+        document.getElementById("ortalama").value = parseFloat(ortalama.toFixed(2));
+
+        if (ortalama < 50) {
+
+            document.getElementById("durum").value = false;
+
+        }
+        else {
+            document.getElementById("durum").value = true;
+        }
+
+    }</script>
+
+

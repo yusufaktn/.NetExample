@@ -1,0 +1,59 @@
+﻿@model MVC_STOK_TAKIP.Models.Entity.TBL_URUN
+
+
+
+@{
+    ViewBag.Title = "YeniUrun";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<form method="post">
+
+    <div style="display: flex; flex-wrap: wrap; gap: 16px;">
+
+        <div class="form-group" style="flex: 1; min-width: 200px;">
+            <label>Ad</label>
+            <input type="text" class="form-control" placeholder="Ürün adını girin" name="AD">
+        </div>
+
+        <div class="form-group" style="flex: 1; min-width: 200px;">
+            <label>Marka</label>
+            <input type="text" class="form-control" placeholder="Marka girin" name="MARKA">
+        </div>
+    </div>
+
+
+    <div style="display: flex; flex-wrap: wrap; gap: 16px;">
+
+
+        <div class="form-group" style="flex: 1; min-width: 200px;">
+            <label>Stok</label>
+            <input type="text" class="form-control" placeholder="Stok girin" name="STOK">
+        </div>
+
+        <div class="form-group" style="flex: 1; min-width: 200px;">
+            <label>Alış Fiyat</label>
+            <input type="text" class="form-control" placeholder="Alış fiyat girin" name="ALIS_FIYAT">
+        </div>
+    </div>
+
+
+    <div style="display: flex; flex-wrap: wrap; gap: 16px;">
+
+
+        <div class="form-group" style="flex: 1; min-width: 200px;">
+            <label>Satış Fiyat</label>
+            <input type="text" class="form-control" placeholder="Satış girin" name="SATIS_FIYAT">
+        </div>
+
+        <div class="form-group" style="flex: 1; min-width: 200px;">
+            <label>Kategori Adı</label>
+            @Html.DropDownListFor(m=>m.TBL_KATEGORI.ID,(List<SelectListItem>)ViewBag.gelen,"Belirtilmemiş",new {@class ="form-control"})
+        </div>
+    </div>
+
+
+    <button type="submit" class="btn btn-primary" style="margin-top: 16px;">Ekle</button>
+
+</form>
