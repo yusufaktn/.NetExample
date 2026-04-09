@@ -1,0 +1,80 @@
+@model Film_Koleksiyonu_MVC.Models.Tbl_User
+@{
+    ViewData["Title"] = "Profili Düzenle";
+}
+
+<div class="container py-5">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title mb-4">Profil Bilgilerini Düzenle</h5>
+                    <form method="post" enctype="multipart/form-data">
+                        <div class="mb-3">
+                            <label class="form-label">Profil Fotoğrafı</label>
+                            <div class="d-flex align-items-center">
+                                <img src="@(string.IsNullOrEmpty(Model.ProfileImageUrl) ? "https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap5/img/avatar.webp" : Model.ProfileImageUrl)"
+                                     alt="avatar" class="rounded-circle" style="width: 100px; height: 100px; object-fit: cover;">
+                                <div class="ms-3">
+                                    <input type="file" name="profileImage" class="form-control" accept=".jpg,.jpeg,.png">
+                                    <small class="text-muted">PNG veya JPG formatında, maksimum 2MB</small>
+                                    @if (!ViewData.ModelState.IsValid && ViewData.ModelState["profileImage"]?.Errors.Count > 0)
+                                    {
+                                        <div class="text-danger">
+                                            @ViewData.ModelState["profileImage"].Errors[0].ErrorMessage
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Kullanıcı Adı</label>
+                            <input type="text" name="username" class="form-control" value="@Model.Username">
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Email</label>
+                            <input type="email" class="form-control" value="@Model.Email" readonly>
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Mevcut Şifre</label>
+                            <input type="password" name="currentPassword" class="form-control">
+                            <small class="text-muted">Şifrenizi değiştirmek istiyorsanız doldurun</small>
+                            @if (!ViewData.ModelState.IsValid && ViewData.ModelState["currentPassword"]?.Errors.Count > 0)
+                            {
+                                <div class="text-danger">
+                                    @ViewData.ModelState["currentPassword"].Errors[0].ErrorMessage
+                                </div>
+                            }
+                        </div>
+
+                        <div class="mb-3">
+                            <label class="form-label">Yeni Şifre</label>
+                            <input type="password" name="newPassword" class="form-control">
+                            <small class="text-muted">Değiştirmek istemiyorsanız boş bırakın</small>
+                        </div>
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a asp-action="Index" class="btn btn-light me-md-2">İptal</a>
+                            <button type="submit" class="btn btn-primary">Değişiklikleri Kaydet</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        .card {
+            border-radius: 15px;
+        }
+        .form-control:focus {
+            border-color: #4e73df;
+            box-shadow: 0 0 0 0.2rem rgba(78, 115, 223, 0.25);
+        }
+    </style>
+}

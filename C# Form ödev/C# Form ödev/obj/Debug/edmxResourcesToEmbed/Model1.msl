@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Entity_UrunModelStoreContainer" CdmEntityContainer="Entity_UrunEntities">
+    <EntitySetMapping Name="TBL_KATEGORI">
+      <EntityTypeMapping TypeName="Entity_UrunModel.TBL_KATEGORI">
+        <MappingFragment StoreEntitySet="TBL_KATEGORI">
+          <ScalarProperty Name="KATEGORI_ID" ColumnName="KATEGORI_ID" />
+          <ScalarProperty Name="KATEGORI_AD" ColumnName="KATEGORI_AD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_MUSTERI">
+      <EntityTypeMapping TypeName="Entity_UrunModel.TBL_MUSTERI">
+        <MappingFragment StoreEntitySet="TBL_MUSTERI">
+          <ScalarProperty Name="MUSTERI_ID" ColumnName="MUSTERI_ID" />
+          <ScalarProperty Name="MUSTERI_AD" ColumnName="MUSTERI_AD" />
+          <ScalarProperty Name="MUSTERI_SOYAD" ColumnName="MUSTERI_SOYAD" />
+          <ScalarProperty Name="MUSTERI_SEHIR" ColumnName="MUSTERI_SEHIR" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_SIPARIS">
+      <EntityTypeMapping TypeName="Entity_UrunModel.TBL_SIPARIS">
+        <MappingFragment StoreEntitySet="TBL_SIPARIS">
+          <ScalarProperty Name="ADET" ColumnName="ADET" />
+          <ScalarProperty Name="SIPARIS_ID" ColumnName="SIPARIS_ID" />
+          <ScalarProperty Name="URUN_ID" ColumnName="URUN_ID" />
+          <ScalarProperty Name="MUSTERI_ID" ColumnName="MUSTERI_ID" />
+          <ScalarProperty Name="TOPLAM_FIYAT" ColumnName="TOPLAM_FIYAT" />
+          <ScalarProperty Name="TARIH" ColumnName="TARIH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_URUN">
+      <EntityTypeMapping TypeName="Entity_UrunModel.TBL_URUN">
+        <MappingFragment StoreEntitySet="TBL_URUN">
+          <ScalarProperty Name="URUNID" ColumnName="URUNID" />
+          <ScalarProperty Name="URUNAD" ColumnName="URUNAD" />
+          <ScalarProperty Name="URUNMARKA" ColumnName="URUNMARKA" />
+          <ScalarProperty Name="KATEGORI_ID" ColumnName="KATEGORI_ID" />
+          <ScalarProperty Name="STOKADET" ColumnName="STOKADET" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+          <ScalarProperty Name="FIYAT" ColumnName="FIYAT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="MARKAGETIR" FunctionName="Entity_UrunModel.Store.MARKAGETIR" />
+  </EntityContainerMapping>
+</Mapping>

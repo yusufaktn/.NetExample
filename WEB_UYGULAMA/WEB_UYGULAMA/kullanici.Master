@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="kullanici.master.cs" Inherits="WEB_UYGULAMA.kullanici" %>
+
+<!DOCTYPE html>
+
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="Tasarim.css" rel="stylesheet" />
+    
+
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height: 62px;
+        }
+
+        .auto-style2 {
+            text-align: center;
+            font-weight: bold;
+            font-style: italic;
+            background-color: #FFFFFF;
+        }
+    </style>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="height: 170px; width: 1114px; margin-left: 300px; color: #FFFFFF; background-color: #FF5050; text-align: center;">
+        </div>
+
+        <div style="margin-left: 300px; width: 1114px;">&nbsp;</div>
+        <div style="margin-left: 300px; height: 65px; width: 1114px; background-color: #FF5050;">
+            <table class="auto-style1" align="center">
+                <tr class="tr">
+                    <td class="auto-style2">ANA SAYFA</td>
+                    <td class="auto-style2">HAKKIMIZDA</td>
+                    <td class="auto-style2">İLETİŞİM</td>
+                    <td class="auto-style2">EN ÇOK SORULANLAR</td>
+                    <td class="auto-style2">ÖNERİ</td>
+                </tr>
+            </table>
+        </div>
+        <div style="margin-left: 300px; width: 1114px;">&nbsp;</div>
+        <div style="height: 450px; width: 1114px; margin-left: 300px;">
+
+
+            <div style="height: auto; float: left; width: 300px; background-color: #FF5050">
+                <ul class ="kategoriler_sol">
+                    <h3><strong><em style="border-color: #FFFFFF; color: #FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <asp:DataList ID="DataList1" runat="server">
+        <ItemTemplate>
+            <asp:Label ID="Label1" runat="server" Text='<%# Eval("KATEGORİ_AD") %>'></asp:Label>
+        </ItemTemplate>
+    </asp:DataList>
+                    </em></strong></h3>
+
+                </ul>
+
+                <br />
+                <br />
+            </div>
+            <div style="height: 450px; float: left; width: 763px; margin-left: 50px; background-color: #FF5050">
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <p>
+                        &nbsp;
+                    </p>
+                </asp:ContentPlaceHolder>
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+    </form>
+</body>
+</html>

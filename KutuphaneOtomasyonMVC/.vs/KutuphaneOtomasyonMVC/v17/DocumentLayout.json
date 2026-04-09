@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myusu\\source\\repos\\KutuphaneOtomasyonMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3FCBB-2D1A-43F9-AB48-5D122B8D49AE}|KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC.csproj|c:\\users\\myusu\\source\\repos\\kutuphaneotomasyonmvc\\kutuphaneotomasyonmvc\\views\\oduncvermekayitlari\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A3FCBB-2D1A-43F9-AB48-5D122B8D49AE}|KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC.csproj|solutionrelative:kutuphaneotomasyonmvc\\views\\oduncvermekayitlari\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3FCBB-2D1A-43F9-AB48-5D122B8D49AE}|KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC.csproj|c:\\users\\myusu\\source\\repos\\kutuphaneotomasyonmvc\\kutuphaneotomasyonmvc\\views\\kullanici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64A3FCBB-2D1A-43F9-AB48-5D122B8D49AE}|KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC.csproj|solutionrelative:kutuphaneotomasyonmvc\\views\\kullanici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3FCBB-2D1A-43F9-AB48-5D122B8D49AE}|KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC.csproj|c:\\users\\myusu\\source\\repos\\kutuphaneotomasyonmvc\\kutuphaneotomasyonmvc\\controllers\\oduncvermekayitlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A3FCBB-2D1A-43F9-AB48-5D122B8D49AE}|KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC.csproj|solutionrelative:kutuphaneotomasyonmvc\\controllers\\oduncvermekayitlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A3FCBB-2D1A-43F9-AB48-5D122B8D49AE}|KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC.csproj|c:\\users\\myusu\\source\\repos\\kutuphaneotomasyonmvc\\kutuphaneotomasyonmvc\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A3FCBB-2D1A-43F9-AB48-5D122B8D49AE}|KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC.csproj|solutionrelative:kutuphaneotomasyonmvc\\controllers\\kullanicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\myusu\\source\\repos\\KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC\\Views\\Kullanici\\Index.cshtml",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonMVC\\Views\\Kullanici\\Index.cshtml",
+              "ToolTip": "C:\\Users\\myusu\\source\\repos\\KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC\\Views\\Kullanici\\Index.cshtml",
+              "RelativeToolTip": "KutuphaneOtomasyonMVC\\Views\\Kullanici\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T19:31:36.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\myusu\\source\\repos\\KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC\\Views\\OduncVermeKayitlari\\Index.cshtml",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonMVC\\Views\\OduncVermeKayitlari\\Index.cshtml",
+              "ToolTip": "C:\\Users\\myusu\\source\\repos\\KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC\\Views\\OduncVermeKayitlari\\Index.cshtml",
+              "RelativeToolTip": "KutuphaneOtomasyonMVC\\Views\\OduncVermeKayitlari\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T19:30:38.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OduncVermeKayitlari.cs",
+              "DocumentMoniker": "C:\\Users\\myusu\\source\\repos\\KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC\\Controllers\\OduncVermeKayitlari.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonMVC\\Controllers\\OduncVermeKayitlari.cs",
+              "ToolTip": "C:\\Users\\myusu\\source\\repos\\KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC\\Controllers\\OduncVermeKayitlari.cs",
+              "RelativeToolTip": "KutuphaneOtomasyonMVC\\Controllers\\OduncVermeKayitlari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:24:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KullaniciController.cs",
+              "DocumentMoniker": "C:\\Users\\myusu\\source\\repos\\KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC\\Controllers\\KullaniciController.cs",
+              "RelativeDocumentMoniker": "KutuphaneOtomasyonMVC\\Controllers\\KullaniciController.cs",
+              "ToolTip": "C:\\Users\\myusu\\source\\repos\\KutuphaneOtomasyonMVC\\KutuphaneOtomasyonMVC\\Controllers\\KullaniciController.cs",
+              "RelativeToolTip": "KutuphaneOtomasyonMVC\\Controllers\\KullaniciController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:55:02.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

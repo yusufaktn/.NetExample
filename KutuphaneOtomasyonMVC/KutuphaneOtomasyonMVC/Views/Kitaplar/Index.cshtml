@@ -1,0 +1,61 @@
+﻿@model List<KutuphaneOtomasyonMVC.Models.Kitap>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+
+        <a href="/Kitaplar/YeniKitap" class="modern-button">
+                   Yeni Kitap Ekle
+               </a>
+        
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Sayfa</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Sayfa</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Sayfa</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Sayfa</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <table class="responsive-table">       
+        <thead>
+            <tr>
+                <th scope="col">ISBN</th>
+                <th scope="col">BAŞLIK</th>
+                <th scope="col">YAZAR</th>
+                <th scope="col">YAYIN YILI</th>
+                <th scope="col">İŞLEMLER</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var i in Model)
+            {
+                <tr>
+                    <th scope="row">@i.ISBN</th>
+                    <td data-title="Released">@i.Baslik</td>
+                    <td data-title="Studio">@i.Yazar</td>
+                    <td data-title="Worldwide Gross" data-type="currency">@i.YayinYili</td>
+                    <td data-title="Worldwide Gross" data-type="currency">
+                        <a asp-action="Duzenle" asp-route-id="@i.KitapID" class="modern-button-duzen">Duzenle</a>
+                        <a asp-action="Sil" asp-route-id="@i.KitapID" class="modern-button-sil">Sil</a> 
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

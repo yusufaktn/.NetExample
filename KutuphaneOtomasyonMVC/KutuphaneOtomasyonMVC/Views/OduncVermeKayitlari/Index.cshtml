@@ -1,0 +1,63 @@
+﻿@model List<KutuphaneOtomasyonMVC.Models.OduncVerme>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+
+        <a href="/Kullanici/YeniKullanici" class="modern-button">
+            Yeni Kullanıcı Ekle
+        </a>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="nav navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Sayfa</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Sayfa</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Sayfa</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Sayfa</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <table class="responsive-table">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">AD</th>
+                <th scope="col">SOYAD</th>
+                <th scope="col">E-POSTA</th>
+                <th scope="col">ROL</th>
+                <th scope="col">İŞLEMLER</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var i in Model)
+            {
+                <tr>
+                    <th scope="row">@i.KullaniciID</th>
+                    <th scope="row">@i.Ad</th>
+                    <td data-title="Released">@i.Soyad</td>
+                    <td data-title="Studio">@i.Eposta</td>
+                    <td data-title="Worldwide Gross" data-type="currency">@i.Rol</td>
+                    <td data-title="Worldwide Gross" data-type="currency">
+                        <a asp-action="Duzenle" asp-route-id="@i.KullaniciID" class="modern-button-duzen">Duzenle</a>
+                        <a asp-action="Sil" asp-route-id="@i.KullaniciID" class="modern-button-sil">Sil</a>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

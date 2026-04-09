@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alıstırma_pdf_textyazma", "alıstırma_pdf_textyazma\alıstırma_pdf_textyazma.csproj", "{A1F49921-DE19-4769-B920-20DF4BF8FBD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F49921-DE19-4769-B920-20DF4BF8FBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F49921-DE19-4769-B920-20DF4BF8FBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F49921-DE19-4769-B920-20DF4BF8FBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F49921-DE19-4769-B920-20DF4BF8FBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E69442C-2B29-46EC-9D6A-9BCE46D71913}
+	EndGlobalSection
+EndGlobal

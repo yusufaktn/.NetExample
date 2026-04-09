@@ -1,0 +1,104 @@
+@model Film_Koleksiyonu_MVC.Models.Tbl_User
+@{
+    ViewData["Title"] = "Profilim";
+}
+
+<div class="container py-5">
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="card mb-4">
+                <div class="card-body text-center">
+                    <img src="@(string.IsNullOrEmpty(Model.ProfileImageUrl) ? "https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap5/img/avatar.webp" : Model.ProfileImageUrl)"
+                        alt="avatar" class="rounded-circle img-fluid"
+                        style="width: 150px; height: 150px; object-fit: cover;">
+                    <h5 class="my-3">@Model.Username</h5>
+                    <div class="d-flex justify-content-center mb-2">
+                        <a asp-action="Edit" class="btn btn-primary">Profili Düzenle</a>
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-4 mb-lg-0">
+                <div class="card-body p-0">
+                    <ul class="list-group list-group-flush rounded-3">
+                        <li class="list-group-item d-flex justify-content-between align-items-center p-3">
+                            <i class="fas fa-film fa-lg text-warning"></i>
+                            <p class="mb-0">Film Koleksiyonum</p>
+                        </li>
+                        <li class="list-group-item d-flex justify-content-between align-items-center p-3">
+                            <i class="fas fa-users fa-lg" style="color: #333333;"></i>
+                            <p class="mb-0">Arkadaşlarım</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-8">
+            <div class="card mb-4">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <p class="mb-0">Kullanıcı Adı</p>
+                        </div>
+                        <div class="col-sm-9">
+                            <p class="text-muted mb-0">@Model.Username</p>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <p class="mb-0">Email</p>
+                        </div>
+                        <div class="col-sm-9">
+                            <p class="text-muted mb-0">@Model.Email</p>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <p class="mb-0">Koleksiyon Sayısı</p>
+                        </div>
+                        <div class="col-sm-9">
+                            <p class="text-muted mb-0">0</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card mb-4 mb-md-0">
+                        <div class="card-body">
+                            <p class="mb-4"><span class="text-primary font-italic me-1">Son İzlenen Filmler</span></p>
+                            <div class="list-group">
+                                <!-- Son izlenen filmler buraya gelecek -->
+                                <div class="text-center text-muted">
+                                    Henüz film izlenmemiş.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card mb-4 mb-md-0">
+                        <div class="card-body">
+                            <p class="mb-4"><span class="text-primary font-italic me-1">Favori Filmler</span></p>
+                            <div class="list-group">
+                                <!-- Favori filmler buraya gelecek -->
+                                <div class="text-center text-muted">
+                                    Henüz favori film eklenmemiş.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        .card {
+            border-radius: 15px;
+        }
+    </style>
+}

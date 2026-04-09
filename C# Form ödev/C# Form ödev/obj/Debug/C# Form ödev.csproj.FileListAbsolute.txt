@@ -1,0 +1,75 @@
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\C# Form ödev.exe.config
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\C# Form ödev.exe
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\C# Form ödev.pdb
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\MaterialSkin.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\obj\Debug\C# Form ödev.csproj.AssemblyReference.cache
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\obj\Debug\C__Form_ödev.AnaForm.resources
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\obj\Debug\C# Form ödev.csproj.GenerateResource.cache
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\obj\Debug\C# Form ödev.csproj.CoreCompileInputs.cache
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\obj\Debug\C# Form .7D063A29.Up2Date
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\obj\Debug\C# Form ödev.exe
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\obj\Debug\C# Form ödev.pdb
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\EntityFramework.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\EntityFramework.xml
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\EnvDTE.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\stdole.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\myusu\source\repos\C# Form ödev\C# Form ödev\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll

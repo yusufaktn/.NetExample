@@ -1,0 +1,188 @@
+/*
+    DEMO STYLE - Baþlangýçtaki bazý genel stiller kalsýn veya düzenlensin
+*/
+
+/* Poppins fontu zaten HTML head içinde @import yerine link ile baðlanmýþ, burasý gereksiz */
+/* @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700"; */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa; /* Açýk gri arkaplan */
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em; /* Paragraph font boyutu */
+    font-weight: 300;
+    line-height: 1.6em;
+    color: #bdc3c7; /* Açýk gri paragraph rengi */
+}
+
+a,
+a:hover,
+a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s; /* Link geçiþleri */
+}
+
+/* Navbar, navbar-btn, line stillerini mevcut haliyle býrakabilirsiniz veya projenizin genel stiline göre güncelleyebilirsiniz */
+/* Bu örnekte sadece sidebar odaklandýk */
+
+/* ---------------------------------------------------
+    MODERN SIDEBAR STYLE
+----------------------------------------------------- */
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background: #2c3e50; /* Koyu modern gri-mavi ton */
+    color: #fff; /* Yazý rengi beyaz */
+    transition: all 0.3s; /* Sidebar'ýn açýlýp kapanmasý için yumuþak geçiþ */
+    /* Modern görünüm için eklemeler */
+    box-shadow: 3px 0 8px rgba(0, 0, 0, 0.3); /* Saða doðru belirgin olmayan gölge */
+    z-index: 100; /* Ýçeriðin üzerinde durmasýný saðlar */
+}
+
+#sidebar.active {
+    margin-left: -250px; /* Collapse olduðunda tamamen gizle */
+    box-shadow: none; /* Gizliyken gölge olmasýn */
+}
+
+#sidebar .sidebar-header {
+    padding: 20px;
+    background: #2c3e50; /* Header arkaplaný sidebar ile ayný */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1); /* Baþlýðýn altýnda hafif beyaz çizgi */
+    text-align: center; /* Baþlýk metnini ortala */
+}
+
+#sidebar .sidebar-header h3 {
+     color: #fff; /* Baþlýk rengi beyaz */
+     margin: 0; /* Varsayýlan h3 marginlerini kaldýr */
+     font-size: 1.5em; /* Baþlýk font boyutu */
+     font-weight: 600; /* Baþlýðý biraz daha kalýn yap */
+}
+
+
+#sidebar ul.components {
+    padding: 0; /* Listenin üst ve alt boþluðunu kaldýr, li'lere vereceðiz */
+    border-bottom: none; /* Varsayýlan list alt çizgisini kaldýr */
+    padding-top: 15px; /* Listedeki öðelerin üstünden boþluk býrak */
+}
+
+/* Liste öðelerine (li) stil uygulayarak linkleri birbirinden ayýrma ve yuvarlama için alan oluþturma */
+#sidebar ul li {
+    padding: 0 15px; /* Her bir liste öðesinin sol ve saðýndan boþluk */
+    margin-bottom: 5px; /* Liste öðeleri arasýna boþluk */
+}
+
+
+#sidebar ul li a {
+    padding: 12px 15px; /* Linkin iç boþluðu */
+    font-size: 1em; /* Link font boyutu */
+    display: block; /* Linkin tüm satýrý kaplamasýný saðla */
+    color: #bdc3c7; /* Varsayýlan link yazý rengi (açýk gri) */
+    border-radius: 5px; /* Linkin köþelerini yuvarla */
+    transition: all 0.3s ease; /* Hover ve diðer durumlar için yumuþak geçiþ */
+}
+
+/* Font Awesome ikonlarý kullanýyorsanýz ikon ile yazý arasýna boþluk ekler */
+#sidebar ul li a i {
+    margin-right: 10px;
+}
+
+
+/* Link üzerine gelindiðinde (hover) */
+#sidebar ul li a:hover {
+    color: #fff; /* Yazý rengi beyaz */
+    background: rgba(255, 255, 255, 0.1); /* Þeffaf beyaz arkaplan (koyu tema üzerinde iyi durur) */
+}
+
+/* Aktif (seçili) link stili */
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+    color: #fff; /* Yazý rengi beyaz */
+    background: #3498db; /* Modern, vurgulu mavi arkaplan (butona yakýn ton) */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Aktif linke hafif gölge */
+}
+
+/* Ýç içe açýlýr menü (dropdown) linkleri stili (varsa) */
+ul ul a {
+    font-size: 0.9em !important; /* Biraz daha küçük font */
+    padding-left: 30px !important; /* Daha fazla girinti */
+    background: rgba(0, 0, 0, 0.1); /* Hafif koyu arkaplan */
+    border-radius: 0; /* Ýç linklerde yuvarlama olmasýn */
+}
+
+/* CTAs (Call to Actions) listesi stili (varsa) */
+ul.CTAs {
+   padding: 20px; /* Varsayýlan padding kalsýn */
+   border-top: 1px solid rgba(255, 255, 255, 0.1); /* Üste hafif çizgi */
+}
+
+ul.CTAs a {
+    text-align: center;
+    font-size: 0.9em !important;
+    display: block;
+    border-radius: 5px; /* Butonvari yuvarlama */
+    margin-bottom: 5px;
+    padding: 10px; /* Ýç boþluk */
+    transition: all 0.3s ease; /* Geçiþ efekti */
+}
+
+/* Ýndirme butonu stili */
+a.download {
+    background: #2ecc71; /* Modern yeþil ton */
+    color: #fff;
+}
+ a.download:hover {
+     background: #27ae60; /* Hover'da koyu yeþil */
+ }
+
+/* Makale butonu stili */
+a.article,
+a.article:hover {
+    background: #e74c3c !important; /* Modern kýrmýzý ton */
+    color: #fff !important;
+}
+  a.article:hover {
+     background: #c0392b !important; /* Hover'da koyu kýrmýzý */
+ }
+
+
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+/* Ýçerik alaný stilleri (mevcut haliyle býrakýldý) */
+#content {
+    width: 100%;
+    padding: 20px;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+/* ---------------------------------------------------
+    MEDIAQUERIES
+----------------------------------------------------- */
+/* Responsive düzenlemeler (mevcut haliyle býrakýldý) */
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+    #sidebarCollapse span {
+        display: none;
+    }
+     #sidebar {
+         /* Mobil görünümde gölge kaldýrýlabilir veya ayarlanabilir */
+         box-shadow: none;
+     }
+}

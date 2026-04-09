@@ -1,0 +1,8 @@
+C:\Users\myusu\source\repos\Film_Koleksiyonu_MVC\Film_Koleksiyonu_MVC\obj\Debug\net7.0\Film_Koleksiyonu_MVC.csproj.AssemblyReference.cache
+C:\Users\myusu\source\repos\Film_Koleksiyonu_MVC\Film_Koleksiyonu_MVC\obj\Debug\net7.0\Film_Koleksiyonu_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myusu\source\repos\Film_Koleksiyonu_MVC\Film_Koleksiyonu_MVC\obj\Debug\net7.0\Film_Koleksiyonu_MVC.AssemblyInfoInputs.cache
+C:\Users\myusu\source\repos\Film_Koleksiyonu_MVC\Film_Koleksiyonu_MVC\obj\Debug\net7.0\Film_Koleksiyonu_MVC.AssemblyInfo.cs
+C:\Users\myusu\source\repos\Film_Koleksiyonu_MVC\Film_Koleksiyonu_MVC\obj\Debug\net7.0\Film_Koleksiyonu_MVC.csproj.CoreCompileInputs.cache
+C:\Users\myusu\source\repos\Film_Koleksiyonu_MVC\Film_Koleksiyonu_MVC\obj\Debug\net7.0\Film_Koleksiyonu_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\myusu\source\repos\Film_Koleksiyonu_MVC\Film_Koleksiyonu_MVC\obj\Debug\net7.0\Film_Koleksiyonu_MVC.RazorAssemblyInfo.cache
+C:\Users\myusu\source\repos\Film_Koleksiyonu_MVC\Film_Koleksiyonu_MVC\obj\Debug\net7.0\Film_Koleksiyonu_MVC.RazorAssemblyInfo.cs

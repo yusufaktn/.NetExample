@@ -1,0 +1,4 @@
+﻿Template kısmında tablo template'i kuruldu scss dosyası css dosyasına çevrilecek bunun için yüklenmesi gereken kütüphaneler var Chat gpt sor.
+Daha sonra bunları halledince artık controller kısmına geç ve veritabanından verileri çek.
+
+istemsizce yeşil olan css kısımları düzeltilecek

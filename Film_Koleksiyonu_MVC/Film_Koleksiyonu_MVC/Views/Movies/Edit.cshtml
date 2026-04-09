@@ -1,0 +1,114 @@
+@model Film_Koleksiyonu_MVC.Models.Tbl_Movie
+
+@{
+    ViewData["Title"] = "Film Düzenle";
+}
+
+<div class="container fade-in">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title text-center mb-4">Film Düzenle</h2>
+
+                    <form asp-action="Edit" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="MovieId" />
+
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label">Film Adı</label>
+                            <input asp-for="Title" class="form-control" />
+                            <span asp-validation-for="Title" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label">Açıklama</label>
+                            <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ImageUrl" class="form-label">Film Posteri URL</label>
+                            <input asp-for="ImageUrl" class="form-control" />
+                            <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="CategoryId" class="form-label">Kategori</label>
+                            <select asp-for="CategoryId" class="form-select" asp-items="ViewBag.Categories">
+                                <option value="">Kategori Seçin</option>
+                            </select>
+                            <span asp-validation-for="CategoryId" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Rating" class="form-label">Puan</label>
+                            <div class="rating-input">
+                                @for (int i = 1; i <= 5; i++)
+                                {
+                                        <i class="@(i <= Model.Rating ? "fas" : "far") fa-star fa-2x text-warning" data-rating="@i"></i>
+                                }
+                            </div>
+                            <input type="hidden" asp-for="Rating" id="ratingValue" />
+                            <span asp-validation-for="Rating" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-save me-2"></i>Kaydet
+                            </button>
+                            <a asp-action="Index" class="btn btn-outline-secondary">
+                                <i class="fas fa-arrow-left me-2"></i>Listeye Dön
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    
+        <script>
+            // Yıldız derecelendirme sistemi
+            document.addEventListener('DOMContentLoaded', function() {
+                const stars = document.querySelectorAll('.rating-input .fa-star');
+                const ratingInput = document.getElementById('ratingValue');
+
+                stars.forEach(star => {
+                    star.addEventListener('mouseover', function() {
+                        const rating = this.dataset.rating;
+                        updateStars(rating);
+                    });
+
+                    star.addEventListener('click', function() {
+                        const rating = this.dataset.rating;
+                        ratingInput.value = rating;
+                        updateStars(rating);
+                    });
+                });
+
+                document.querySelector('.rating-input').addEventListener('mouseleave', function() {
+                    const currentRating = ratingInput.value || 0;
+                    updateStars(currentRating);
+                });
+
+                function updateStars(rating) {
+                    stars.forEach(star => {
+                        const starRating = star.dataset.rating;
+                        if (starRating <= rating) {
+                            star.classList.remove('far');
+                            star.classList.add('fas');
+                        } else {
+                            star.classList.remove('fas');
+                            star.classList.add('far');
+                        }
+                    });
+                }
+            });
+        </script>
+}

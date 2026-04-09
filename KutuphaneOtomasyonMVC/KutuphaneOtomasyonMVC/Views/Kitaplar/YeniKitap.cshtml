@@ -1,0 +1,46 @@
+﻿@model KutuphaneOtomasyonMVC.Models.Kitap
+
+@{
+    ViewData["Title"] = "YeniKitap";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="YeniKullanici" method="post">
+            
+            <div class="form-group">
+                <label asp-for="ISBN" class="control-label"></label>
+                <input asp-for="ISBN" class="form-control" />
+                
+                <span asp-validation-for="ISBN" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Baslik" class="control-label"></label>
+                <input asp-for="Baslik" class="form-control" />
+                <span asp-validation-for="Baslik" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Yazar" class="control-label"></label>
+                <input asp-for="Yazar" class="form-control" />
+                <span asp-validation-for="Yazar" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="YayinYili" class="control-label"></label>
+                
+                <input asp-for="YayinYili" class="form-control" type="number" />
+                <span asp-validation-for="YayinYili" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                
+                <button type="submit" class="modern-button">Kitabı Kaydet</button>
+                
+                <a asp-action="Index" class="modern-button-duzen">İptal / Listeye Dön</a>
+            </div>
+        </form>
+    </div>
+</div>
+
